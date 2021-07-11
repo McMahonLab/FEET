@@ -1,0 +1,37 @@
+﻿Original to FeGenie,Bitscore cuttoffs,Oxidative/Reductive/Both,,Our additions,Bitscore cuttoffs,Oxidative/Reductive/Both
+CymA.hmm,237,Reductive,,ImcH.hmm,600,Reductive
+DFE_0448.hmm,27.5,Reductive,,CbcA.hmm,200,Reductive
+DFE_0449.hmm,30,Reductive,,CbcB.hmm,150,Reductive
+DFE_0450.hmm,30,Reductive,,CbcL.hmm,130,Reductive
+DFE_0451.hmm,64,Reductive,,ExtA_pcc_cyt.hmm ,90,Reductive
+DFE_0461.hmm,40,Reductive,,ExtB_porin.hmm,100,Reductive
+DFE_0462.hmm,40,Reductive,,ExtC_pcc_lp_cyt.hmm,100,Reductive
+DFE_0463.hmm,100,Reductive,,ExtD_pcc_lp_cyt.hmm,100,Reductive
+DFE_0464.hmm,25,Reductive,,,,
+DFE_0465.hmm,20,Reductive,,,,
+DmkA.hmm,17,Reductive,,,,
+DmkB.hmm,25,Reductive,,,,
+EetA.hmm,20,Reductive,,,,
+EetB.hmm,30,Reductive,,,,
+FmnA.hmm,60,Reductive,,,,
+FmnB.hmm,33,Reductive,,,,
+MtrA.hmm,140,Reductive,,,,
+MtrB_TIGR03509.hmm,240.05,Both,,,,
+MtrC_TIGR03507.hmm,209.3,Reductive,,,,
+Ndh2.hmm,40,Reductive,,,,
+OmcF.hmm,83.7,Reductive,,,,
+OmcS.hmm,78.2,Reductive,,,,
+OmcZ.hmm,76.9,Reductive,,,,
+PplA.hmm,32,Reductive,,,,
+Cyc2_repCluster1.hmm  ,31.5,Oxidative,,,,
+Cyc2_repCluster2.hmm,27.8,Oxidative,,,,
+Cyc2_repCluster3.hmm ,27.3,Oxidative,,,,
+Cyc1.hmm ,98,Oxidative,,,,
+MtoA.hmm,140,Oxidative,,,,
+sulfocyanin.hmm,45.4,Oxidative,,,,
+FoxA.hmm ,128,Oxidative,,,,
+FoxB.hmm,66,Oxidative,,,,
+FoxC.hmm              ,62,Oxidative,,,,
+FoxE.hmm,37,Oxidative,,,,
+FoxY.hmm,124,Oxidative,,,,
+FoxZ.hmm,150,Oxidative,,,,

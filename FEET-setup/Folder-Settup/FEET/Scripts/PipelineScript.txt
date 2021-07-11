@@ -1,0 +1,321 @@
+
+#############################################################################################################################
+#############################################################################################################################
+# FEET pipeline
+#############################################################################################################################
+#############################################################################################################################
+### Run this on 1 or more samples with '.fna' extension, containing non-ORF-called nucleotide sequences to find putative EET proteins.
+### Works best if the .fna files are binned.
+### Longer raw metagenomic sequence may require additional steps to be subdivided and recombined, particularily when using the python scripts.
+### Run one code block at a time. -- Some code blocks can be combined, but not all of them.
+#############################################################################################################################
+#############################################################################################################################
+# Step 0: Run code to change this copy-paste script to work for the given sample(s)
+
+cd /ServerPath/FEET/FeGenie
+
+mkdir ../Samples/Sample_Name #do for each sample
+
+cp ExamplePath/FNAfiles/* ../Samples/Sample_Name #Replace ExamplePath/FNAfiles/ with wherever you store your raw .fna files, use 'scp' for transfering to/from server
+
+cd /ServerPath/FEET/scripts
+
+sed 's|Sample_Name|NewName|g' PipelineScript.txt | sed 's|SampleNames|ListOfSamples|g' | sed 's|/ServerPath/|/HomePath/|g' | sed 's|/LocalPath/|/ComputerPath/|g' | sed 's|ServerName:|Address:|g' >> PipelineScript_NewName.txt 
+### except must first change 'NewName' to the desired Sample's name or, if multiple samples, use some unique handle. 
+### Also change 'ListOfSamples' to either the sample's name or (if multiple samples) the list of sample names where each is separated by a '\ '.
+### Also change '/HomePath/' to whatever server/running path this was set up for. Include the slash marks as indicated.
+### Also change '/ComputerPath/' to wherever path you're storing the manual Cello uploads. Include the slash marks as indicated.
+### Also change 'Address:' to the server's name (needs a colon).
+### Then, you can use the text in created PipelineScript_NewName.txt file to run the rest of this pipeline.
+
+######################################################################################################
+######################################################################################################
+# Step 1 Run FeGenie (with the proper modifications) -- this step is often the longest; consider subidividing work amongst servers
+######################################################################################################
+######################################################################################################
+cd /ServerPath/FEET/FeGenie
+
+## enter the miniconda environment
+
+Samples=(SampleNames) #each sample should be separated by a space
+for Sample in ${Samples[*]};do
+FeGenie.py -bin_dir ../Samples/$Sample/ -bin_ext fna -d 8 -out ../OutputFeGenie/OutputFeGenie_$Sample 
+done
+
+######################################################################################################
+######################################################################################################
+# Step 2: on the server: Find sequences with 3 or more C..CH heme motifs and 5 or more total heme motifs using 'Find_multihemes_CNO.py' for every bin/MAG in the sample and concatonate into a file which will be able to be later uploaded to http://cello.life.nctu.edu.tw/ 
+## This script can be adapted to any number of hemes by changing '3' and '5'. However then, one must also change '_3_' in the subsequent step to match. 
+
+cd /ServerPath/FEET/scripts
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Bins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/ -name "*faa")
+for bin in ${Bins[*]};do
+python ./Find_multihemes_CNO.py $bin 3 5 >> ../PipelineOutput/MultihemeFinderOutput_$Sample\.txt
+done;done
+
+######################################################################################################
+######################################################################################################
+# Step 3: : on the server : for each _heme.faa file generated that has a hit to at least 1 5-heme protein, concatonate it to a single fasta file with easily parsable sequence identifiers plus the bin's unique_identifier in each sequence identifier.
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t HemeBins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/MHCs/ -name "*faa")
+for HemeBin in ${HemeBins[*]};do
+if grep -q ">" $HemeBin;then
+readarray -t BinName < <(basename $HemeBin | sed 's/_3_heme.faa//g')
+sed "s/>/>$Sample\-\_\-$BinName\_\_\_/g" $HemeBin >> ../Cello/ForCello_Sample_Name.faa
+fi 
+done;done
+
+## : on home computer : download from server in order to upload to http://cello.life.nctu.edu.tw/
+    
+cd /LocalPath/
+scp ServerName:/ServerPath/FEET/Cello/ForCello_Sample_Name.faa .
+
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 4: : on home computer : copy and paste the original output and the "Results" outputs in some local folder
+## Make sure that the quantity you submit Cello can handle. You may have to split it up into portions and re-concatonate!
+### Mostly, make sure that you can see both the first and last MHC in the Cello Results.
+
+touch /LocalPath/Sample_Name.txt #Put the first output you see in this file
+touch /LocalPath/Results_Sample_Name.tsv #Put the output you see after clicking on "Results" in this file.
+
+#copy and paste into these files once Cello is done, and double check that you can find the first and last MHC in Results_Sample_Name.tsv
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 5: on home computer : Upload cello output to server:
+
+scp /LocalPath/Results_Sample_Name.tsv ServerName:/ServerPath/FEET/Cello
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 6: on the server : find Beta-Barrel Outer Membrane Porins (BB-OMPs) using an HMM.
+
+cd /ServerPath/FEET
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Bins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/ -name "*faa")
+mkdir /ServerPath/FEET/HMMs/Outputs/$Sample\_PCC-OMP
+for Bin in ${Bins[*]};do
+readarray -t BinName < <(basename $Bin | sed 's/.fna-proteins.faa//g')
+hmmsearch -E 1e-05 --tblout /ServerPath/FEET/HMMs/Outputs/$Sample\_PCC-OMP/ShaomeiPCCporin1E-05_$BinName\.tblout HMMs/Shaomei_HMM/pcc_porin.hmm $Bin
+done
+done
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 7: on the server : Running scripts which summarize the Shaomei-style MHC/PCC pattern search-adapted method:
+## make a csv file with all the OM/P/E MHCs in it from the sample: MAG/Bin,protein_id,location(Extracellular or Outer Membrane or Periplasmic)
+
+cd /ServerPath/FEET
+
+grep ':' Cello/Results_Sample_Name.tsv | grep -v "Combined:" | awk '{if ($13 ~ /Periplasmic/ || /Extracellular/ || /Outer/) printf $14","$13"\n"}' | sed 's/___/,/g' | sed 's/-_-/,/g' >> PipelineOutput/OM-E-P-only_MHCs_Sample_Name.csv
+
+### Splitting up into individual sample files, and if only one sample, these next 5 lines simply get rid of the redundant sample name column from the file
+mv PipelineOutput/OM-E-P-only_MHCs_Sample_Name.csv PipelineOutput/OM-E-P-only_MHCs_Sample_NameTEMP.csv
+readarray -t Samples < <(grep "," PipelineOutput/OM-E-P-only_MHCs_Sample_NameTEMP.csv | cut -d',' -f1 | uniq)
+for Sample in ${Samples[*]};do
+grep "^$Sample," PipelineOutput/OM-E-P-only_MHCs_Sample_NameTEMP.csv | awk -F"," '{printf $2","$3","$4"\n"}' >> PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv
+done
+
+## make a csv file with all the BB-OMPs: MAG/Bin,protein_id,"BB-OMP"
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+echo "" > PipelineOutput/BB-OMPs_$Sample\.csv
+readarray -t Tblouts < <(find /ServerPath/FEET/HMMs/Outputs/$Sample\_PCC-OMP/ -name "*tblout")
+for Tbl in ${Tblouts[*]};do 
+if grep -q ';gc_cont=' $Tbl;then
+readarray -t Omps < <(grep 'gc_cont=' $Tbl | sed 's/  */,/g')
+for Omp in ${Omps[*]};do
+echo -n $(echo "${Tbl##*/}", | sed 's/ShaomeiPCCporin1E-05_//g' | sed 's/.tblout//g') >> PipelineOutput/BB-OMPs_$Sample\.csv
+echo -n $(echo $Omp | awk -F"," '{printf $1","}') >> PipelineOutput/BB-OMPs_$Sample\.csv
+echo "BB-OMP" >> PipelineOutput/BB-OMPs_$Sample\.csv
+done
+fi
+done;done
+
+## Run MHC-BB-OMP-matcher.py python script which does: for each MHC, check if it has a BB-OMP within 8 genes up or downstream and makes a csv file: MAG/Bin,MHC-protein,BB-OMP-protein
+### the following couple python-using code blocks may throw errors/warnings whenever an MHC does not have another MHC to search with, but this does not harm the output. 
+
+cd scripts #from now on everything is run from scripts folder
+pwd #gives: `/ServerPath/FEET/scripts`
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+echo "" > ../PipelineOutput/NearbyMHCsAndBB-OMPs_$Sample\.csv
+readarray -t MHCs < <(grep "," ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | cut -d',' -f2)
+for MHC in ${MHCs[*]};do
+#asking if it's MAG is in the BB-OMP file:
+if grep -q "$(grep "$MHC" ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | cut -d',' -f1)" ../PipelineOutput/BB-OMPs_$Sample\.csv;then
+readarray -t FaaName < <(grep "$MHC" ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | cut -d',' -f1 | uniq)
+FaaFile=(/ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/$FaaName\.fna-proteins\.faa)
+readarray -t Bbomps < <(grep "$FaaName" ../PipelineOutput/BB-OMPs_$Sample\.csv | cut -d',' -f2)
+for Bbomp in ${Bbomps[*]};do
+python MHC-BB-OMP-matcher.py $MHC $Bbomp $FaaFile 8 >> ../PipelineOutput/NearbyMHCsAndBB-OMPs_$Sample\.csv
+#echo $Bbomp
+done
+#echo $MHC
+fi
+done;done
+
+## run same python script except which searches each periplasmic MHC protein against all the Outer Membrane and extracellular MHCs, makes a csv file: MAG/Bin,PeriMHC,OM/Ext MHC
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+echo "" > ../PipelineOutput/NearbyPeriplasmicAndECorOM-MHCs_$Sample\.csv
+readarray -t MHCs < <(grep "," ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | cut -d',' -f2)
+for periMHC in ${MHCs[*]};do
+if grep "$periMHC" ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | grep -q "Periplasmic";then
+readarray -t FaaName < <(grep "$periMHC" ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | cut -d',' -f1 | uniq)
+FaaFile=(/ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/$FaaName\.fna-proteins\.faa)
+readarray -t OtherMHCs < <(grep "$FaaName" ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | grep -v "Periplasmic" | cut -d',' -f2)
+for OtherMHC in ${OtherMHCs[*]};do
+python MHC-BB-OMP-matcher.py $periMHC $OtherMHC $FaaFile 8 >> ../PipelineOutput/NearbyPeriplasmicAndECorOM-MHCs_$Sample\.csv
+done
+fi 
+done;done
+
+## Run a bash script that puts all the EET info in one csv file that can be easily tallied with no repeats: MAG/Bin,EET_protein,Type_of_protein
+    ### Types of putative EET proteins it could be: 
+        #### Porin putatively involved in PCC (nearby one or more periplasmic/OM/EC MHCs): "PCC porin"
+        #### Outer Surface MHC, EC or OM, nearby a porin or other MHCs: "Outer Surface MHC in PCC"
+        #### Outer Surface MHC, EC or OM, not found nearby anything: "Outer Surface MHC"
+        #### Periplasmic MHC nearby a porin or an EC or OM MHC: "Periplasmic MHC in PCC"
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Bins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/ -name "*faa")
+echo "" > ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+for Bin in ${Bins[*]};do
+readarray -t BinName < <(basename $Bin | sed 's/.fna-proteins.faa//g')
+#Searching for Porins
+readarray -t PorinProteins < <(grep "$BinName," ../PipelineOutput/NearbyMHCsAndBB-OMPs_$Sample\.csv | cut -d',' -f3 | uniq)
+for PorinProtein in ${PorinProteins[*]};do
+echo "$BinName,$PorinProtein,PCC porin" >> ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+done
+#Searching for OuterMHCs by Porins 
+readarray -t OuterMhcPorProteins < <(grep "$BinName," ../PipelineOutput/NearbyMHCsAndBB-OMPs_$Sample\.csv | grep -v "Periplasmic" | cut -d',' -f2 | uniq)
+for OuterMhcPorProtein in ${OuterMhcPorProteins[*]};do
+echo "$BinName,$OuterMhcPorProtein,Outer Surface MHC in PCC" >> ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+done
+#Searching for PeriMHCs by Porins
+readarray -t PeriMhcPorProteins < <(grep "$BinName," ../PipelineOutput/NearbyMHCsAndBB-OMPs_$Sample\.csv | grep "Periplasmic" | cut -d',' -f2 | uniq)
+for PeriMhcPorProtein in ${PeriMhcPorProteins[*]};do
+echo "$BinName,$PeriMhcPorProtein,Periplasmic MHC in PCC" >> ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+done
+#Searching for PeriMHCs by Outer surface MHCs but checking if already found first
+readarray -t PeriByMhcs < <(grep "$BinName," ../PipelineOutput/NearbyPeriplasmicAndECorOM-MHCs_$Sample\.csv | cut -d',' -f2 | uniq)
+for PeriByMhc in ${PeriByMhcs[*]};do
+if ! grep -q "$PeriByMhc" ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv;then
+echo "$BinName,$PeriByMhc,Periplasmic MHC in PCC" >> ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+fi;done
+#Searching for remaining outer surface MHCs absent porins
+readarray -t OuterMhcAlones < <(grep "$BinName," ../PipelineOutput/OM-E-P-only_MHCs_$Sample\.csv | grep -v "Periplasmic" | cut -d',' -f2)
+for OuterMhcAlone in ${OuterMhcAlones[*]};do
+if ! grep -q "$OuterMhcAlone" ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv;then
+echo "$BinName,$OuterMhcAlone,Outer Surface MHC" >> ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv
+fi;done;done;done
+
+
+
+## script to count how many are found by just the Shoamei-style method:
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Bins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/ -name "*faa")
+echo "MAG,Total EET,EET Porin, Outer Surface MHC in PCC, Outer Surface MHC, Periplasmic MHC in PCC" > ../PipelineOutput/Count_ShamoeiMethod_$Sample\.csv
+for Bin in ${Bins[*]};do
+readarray -t BinName < <(basename $Bin | sed 's/.fna-proteins.faa//g')
+if grep -q "$BinName" ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv;then
+awk -F"," -v BinName=$BinName 'BEGIN{Totalcount=0};BEGIN{Porin=0};BEGIN{Outer=0};BEGIN{MPCC=0};BEGIN{PPCC=0};{if ( $1 == BinName ) Totalcount++};{if ( $3 == "PCC porin" && $1 == BinName ) Porin++};{if ( $3 == "Outer Surface MHC" && $1 == BinName ) Outer++};{if ( $3 == "Outer Surface MHC in PCC" && $1 == BinName ) MPCC++};{if ( $3 == "Periplasmic MHC in PCC" && $1 == BinName ) PPCC++};END{printf BinName","Totalcount","Porin","Outer","MPCC","PPCC"\n"}' ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv >> ../PipelineOutput/Count_ShamoeiMethod_$Sample\.csv
+else
+echo "$BinName,0,0,0,0,0" >> ../PipelineOutput/Count_ShamoeiMethod_$Sample\.csv
+fi
+done;done
+
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 8: on the server : Run a script that grabs info from FeGenie for each bin and then from Shaomei-style and puts in same csv, and then tallies the total but does not count a protein twice.
+### Works as follows: For every bin, grab FeGenie iron redox protein calls (includes only things that pass the iron-redox logic requirements of FeGenie). Then grab info if it has been found by Shaomei-style MHC/porin search.
+### Then grab the hmm matches to potential iron redox proteins, and for each match that did not pass FeGenie logic, grab the one with lowest e-value for that bin and print to output, but NOT if it failed the bitscore cuttof.
+### If it did not pass the bitscore cuttoff but was found by the hmm search, the ORF identification will be in the output but the FeGenie info column will be blank, leaving 2 commas in a row.
+### Then if finds the Shaomei-style matches that were not found by any other method, and finally if a bin had no EET protein matches, it simply prints the bin identification and Not found in every column.
+### This step may be finicky if not copied and pasted quite properly. I recommend checking to make sure output is being generated if this is the first time you've done this.
+### must copy and paste the whole code block.
+pwd #gives: `/ServerPath/FEET/scripts`
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Bins < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/ORF_calls/ -name "*faa")
+echo "MAG,orf,FeGenie_HMM,Shaomei_Type" > ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+for Bin in ${Bins[*]};do
+readarray -t BinName < <(basename $Bin | sed 's/.fna-proteins.faa//g')
+grep "$BinName\." ../OutputFeGenie/OutputFeGenie_$Sample/FeGenie-geneSummary.csv | grep "oxidation\|reduction" >> $BinName\temp1.csv
+readarray -t FirstProts < <(grep "f" $BinName\temp1.csv | cut -d',' -f3)
+for Fprot in ${FirstProts[*]};do 
+grep "$Fprot," $BinName\temp1.csv | awk -F"," -v BinName=$BinName '{printf BinName","$3","$4","}' >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+if grep -q "$Fprot," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv;then
+echo "$(grep "$Fprot," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv | cut -d',' -f3)" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+else
+echo "Not found" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+fi;done
+Hmms=(Cyc2_repCluster1 Cyc2_repCluster2 Cyc2_repCluster3 FoxA FoxB FoxC FoxE FoxY FoxZ MtoA MtrA MtrB_TIGR03509 MtrC_TIGR03507 sulfocyanin DFE_0448 DFE_0449 DFE_0450 DFE_0461 DFE_0462 DFE_0464 DFE_0465 EetA EetB OmcF OmcS OmcZ PplA)
+readarray -t Fna < <(find /ServerPath/FEET/OutputFeGenie/OutputFeGenie_$Sample/HMM_results -name "$BinName\.fna-HMM")
+echo "" > $BinName\temp2.csv
+for Hmm in ${Hmms[*]};do
+readarray -t Matches < <(grep "gc_cont=" $Fna/$Hmm\.hmm\.tblout | sed 's/  */qozz/g')
+for Match in ${Matches[*]};do
+readarray -t Bitcutoff < <(grep "^$Hmm" ../FeGenie/hmms/iron/HMM-bitcutoffs.txt | cut -f2)
+echo -n "${Fna##*/}", >> $BinName\temp2.csv #contains every EET hmm hit
+echo -n "$Hmm", >> $BinName\temp2.csv
+echo -n $(grep -c "gc_cont=" $Fna/$Hmm\.hmm\.tblout), >> $BinName\temp2.csv
+echo -n $(echo "$Match" | sed 's/qozz/,/g'), >> $BinName\temp2.csv
+echo "$Bitcutoff" >> $BinName\temp2.csv
+done;done
+readarray -t SecProts < <(grep "f" $BinName\temp2.csv | cut -d',' -f4 | sort -u)
+for SecProt in ${SecProts[*]};do
+if ! grep -q "$SecProt," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv;then
+grep "f" $BinName\temp2.csv | awk -F"," -v BinName=$BinName -v prot=$SecProt -v max=1 '{if ( $4 == prot && max > $8 && $9 > $NF ){want=$2; max=$8}}END{printf BinName","prot","want","}' >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+if grep -q "$SecProt," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv;then
+echo "$(grep "$SecProt," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv | cut -d',' -f3)" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+else
+echo "Not found" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+fi;fi;done
+#looking for Shaomei finds that were not found by FeGenie finally!
+readarray -t ThirdProts < <(grep "$BinName," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv | cut -d',' -f2)
+for ThirdProt in ${ThirdProts[*]};do
+if ! grep -q "$ThirdProt," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv;then
+echo -n "$BinName,$ThirdProt,Not found," >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+echo "$(grep "$BinName," ../PipelineOutput/All_EET_Proteins_ShamoeiMethod_$Sample\.csv | grep "$ThirdProt," | cut -d',' -f3)" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+fi;done
+if ! grep -q "$BinName," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv;then
+echo "$BinName,Not found,Not found,Not found" >> ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv
+fi
+rm -f $BinName\temp*.csv
+done;done
+
+#############################################################################################################################
+#############################################################################################################################
+# Step 9 : on the server: 
+### this step simply counts the total number of any kind of EET protein found by any method in each MAG
+
+Samples=(SampleNames)
+for Sample in ${Samples[*]};do
+readarray -t Eprots < <(grep "[0-9]," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv | cut -d',' -f1 | uniq)
+echo "" > ../PipelineOutput/count_AnyEETprotein_$Sample\.csv
+for Epr in ${Eprots[*]};do
+echo -n "$Epr", >> ../PipelineOutput/count_AnyEETprotein_$Sample\.csv
+if grep "$Epr," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv | grep -q ",Not found,Not found,Not found";then
+echo '0' >> ../PipelineOutput/count_AnyEETprotein_$Sample\.csv
+else
+echo $(grep "$Epr," ../PipelineOutput/All_EET_Proteins_bothMethods_$Sample\.csv | wc -l) >> ../PipelineOutput/count_AnyEETprotein_$Sample\.csv
+fi;done;done
+
+
+# the end.
