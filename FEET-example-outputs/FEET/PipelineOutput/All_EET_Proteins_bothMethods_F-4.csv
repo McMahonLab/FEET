@@ -1,0 +1,81 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+F-4_megahit_metabat_bin-041,bin-041:080/230_3,EetA,Not found
+F-4_megahit_metabat_bin-041,bin-041:080/230_4,EetB,Not found
+F-4_megahit_metabat_bin-041,bin-041:115/230_2,MtoA,Not found
+F-4_megahit_metabat_bin-054,Not found,Not found,Not found
+F-4_megahit_metabat_bin-102,Not found,Not found,Not found
+F-4_megahit_metabat_bin-024,bin-024:008/360_42,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-024,bin-024:008/360_43,ExtB_porin,PCC porin
+F-4_megahit_metabat_bin-024,bin-024:299/360_4,CbcA,Not found
+F-4_megahit_metabat_bin-024,bin-024:299/360_5,CbcB,Not found
+F-4_megahit_metabat_bin-024,bin-024:061/360_6,DFE_0461,Periplasmic MHC in PCC
+F-4_megahit_metabat_bin-024,bin-024:061/360_7,DFE_0463,Not found
+F-4_megahit_metabat_bin-024,bin-024:061/360_8,DFE_0462,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:061/360_11,DFE_0462,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:216/360_40,ImcH,Not found
+F-4_megahit_metabat_bin-024,bin-024:216/360_41,ImcH,Not found
+F-4_megahit_metabat_bin-024,bin-024:216/360_46,CbcL,Not found
+F-4_megahit_metabat_bin-024,bin-024:008/360_41,640549328 YP_001230600 {omc} cytochrome C family protein [Geobacter uraniumreducens Rf4: NC_009483],Not found
+F-4_megahit_metabat_bin-024,bin-024:061/360_13,,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:117/360_39,DFE_0448,Not found
+F-4_megahit_metabat_bin-024,bin-024:286/360_19,DFE_0448,Not found
+F-4_megahit_metabat_bin-024,bin-024:299/360_6,,Not found
+F-4_megahit_metabat_bin-024,bin-024:301/360_4,DFE_0462,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:061/360_14,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:061/360_15,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:198/360_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:229/360_15,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:233/360_16,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:233/360_17,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:240/360_18,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:301/360_2,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:301/360_3,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:304/360_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:304/360_3,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-024,bin-024:337/360_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-026,bin-026:60/86_17,ExtB_porin,PCC porin
+F-4_megahit_metabat_bin-026,bin-026:60/86_101,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:60/86_102,ExtB_porin,PCC porin
+F-4_megahit_metabat_bin-026,bin-026:44/86_50,ExtB_porin,PCC porin
+F-4_megahit_metabat_bin-026,bin-026:86/86_101,CbcB,Not found
+F-4_megahit_metabat_bin-026,bin-026:86/86_102,CbcA,Not found
+F-4_megahit_metabat_bin-026,bin-026:51/86_54,ImcH,Not found
+F-4_megahit_metabat_bin-026,bin-026:51/86_64,CbcL,Not found
+F-4_megahit_metabat_bin-026,bin-026:60/86_16,640549328 YP_001230600 {omc} cytochrome C family protein [Geobacter uraniumreducens Rf4: NC_009483],Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:60/86_100,640549328 YP_001230600 {omc} cytochrome C family protein [Geobacter uraniumreducens Rf4: NC_009483],Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:44/86_51,DFE_0462,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:51/86_66,DFE_0448,Not found
+F-4_megahit_metabat_bin-026,bin-026:60/86_13,Not found,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:60/86_96,Not found,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:60/86_97,Not found,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:86/86_169,Not found,Periplasmic MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:86/86_178,Not found,Periplasmic MHC in PCC
+F-4_megahit_metabat_bin-026,bin-026:86/86_170,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-097,bin-097:378/860_3,DFE_0461,Not found
+F-4_megahit_metabat_bin-097,bin-097:583/860_6,DFE_0449,Not found
+F-4_megahit_metabat_bin-097,bin-097:509/860_2,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-063,bin-063:27/37_8,Cyc2_repCluster3,Not found
+F-4_megahit_metabat_bin-063,bin-063:23/37_7,DFE_0461,Not found
+F-4_megahit_metabat_bin-063,bin-063:29/37_43,Cyc2_repCluster1,Not found
+F-4_megahit_metabat_bin-000,bin-000:517/882_1,ExtB_porin,PCC porin
+F-4_megahit_metabat_bin-000,bin-000:058/882_2,ExtC_pcc_lp_cyt,Not found
+F-4_megahit_metabat_bin-000,bin-000:058/882_1,637127415 NP_953769 {omc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Not found
+F-4_megahit_metabat_bin-000,bin-000:058/882_3,640549330 YP_001230602 {porin} hypothetical protein [Geobacter uraniumreducens Rf4: NC_009483],Not found
+F-4_megahit_metabat_bin-000,bin-000:517/882_2,Not found,Outer Surface MHC in PCC
+F-4_megahit_metabat_bin-000,bin-000:189/882_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-000,bin-000:414/882_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-000,bin-000:753/882_2,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-015,Not found,Not found,Not found
+F-4_megahit_metabat_bin-076,Not found,Not found,Not found
+F-4_megahit_metabat_bin-001,bin-001:1123/1937_2,ImcH,Not found
+F-4_megahit_metabat_bin-001,bin-001:0947/1937_9,DFE_0449,Not found
+F-4_megahit_metabat_bin-001,bin-001:1852/1937_1,DFE_0449,Not found
+F-4_megahit_metabat_bin-001,bin-001:0025/1937_1,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-001,bin-001:1243/1937_3,Not found,Outer Surface MHC
+F-4_megahit_metabat_bin-132,Not found,Not found,Not found
+F-4_megahit_metabat_bin-017,bin-017:622/969_2,CbcL,Not found
+F-4_megahit_metabat_bin-017,bin-017:586/969_3,ImcH,Not found
+F-4_megahit_metabat_bin-017,bin-017:878/969_2,Cyc2_repCluster2,Not found
+F-4_megahit_metabat_bin-017,bin-017:050/969_2,DFE_0461,Not found
+F-4_megahit_metabat_bin-066,Not found,Not found,Not found
+F-4_megahit_metabat_bin-012,Not found,Not found,Not found

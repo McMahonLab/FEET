@@ -1,0 +1,6 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Extracellular	Extracellular	Extracellular	OuterMembrane	Extracellular	:	3.841816	0.61734797	0.3754358	0.09170984	0.07368917	Extracellular	T8-5_megahit_metabat_bin-177___bin-177:056/755_1
+#2	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.3508956	0.160069979	2.953133	0.11605995	0.4198393	Periplasmic	T8-5_megahit_metabat_bin-177___bin-177:247/755_1
+#3	Extracellular	Extracellular	Extracellular	Extracellular	Extracellular	:	3.582432	0.2891864	0.7142542	0.22825714	0.185872526	Extracellular	T8-5_megahit_metabat_bin-177___bin-177:393/755_1
+#4	Extracellular	Extracellular	Extracellular	OuterMembrane	Periplasmic	:	2.812273	0.6493607	1.2647166	0.13886804	0.13478135	Extracellular	T8-5_megahit_metabat_bin-177___bin-177:513/755_1
+#5	Extracellular	Extracellular	Extracellular	InnerMembrane	Extracellular	:	3.031002	0.68620885	0.37319018	0.676198617	0.233400976	Extracellular	T8-5_megahit_metabat_bin-086___bin-086:027/226_27

@@ -1,0 +1,560 @@
+
+There are 34958 sequences and 19 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_256976_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_256976_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_256976_3_heme.faa.
+
+
+There are 21593 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_770926_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_770926_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_770926_3_heme.faa.
+
+
+There are 20576 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_873716_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_873716_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_873716_3_heme.faa.
+
+
+There are 17304 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1346550_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1346550_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1346550_3_heme.faa.
+
+
+There are 31150 sequences and 17 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_328929_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_328929_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_328929_3_heme.faa.
+
+
+There are 46787 sequences and 29 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_143907_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_143907_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_143907_3_heme.faa.
+
+
+There are 19876 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_955948_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_955948_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_955948_3_heme.faa.
+
+
+There are 32050 sequences and 22 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_308371_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_308371_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_308371_3_heme.faa.
+
+
+There are 19866 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_914832_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_914832_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_914832_3_heme.faa.
+
+
+There are 18099 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1202644_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1202644_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1202644_3_heme.faa.
+
+
+There are 17695 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1254039_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1254039_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1254039_3_heme.faa.
+
+
+There are 28848 sequences and 18 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_390603_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_390603_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_390603_3_heme.faa.
+
+
+There are 26611 sequences and 16 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_462556_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_462556_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_462556_3_heme.faa.
+
+
+There are 35687 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_246697_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_246697_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_246697_3_heme.faa.
+
+
+There are 19164 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1038180_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1038180_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1038180_3_heme.faa.
+
+
+There are 21115 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_812042_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_812042_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_812042_3_heme.faa.
+
+
+There are 42383 sequences and 29 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_174744_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_174744_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_174744_3_heme.faa.
+
+
+There are 40356 sequences and 42 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_195302_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_195302_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_195302_3_heme.faa.
+
+
+There are 20408 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_883995_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_883995_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_883995_3_heme.faa.
+
+
+There are 23308 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_637299_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_637299_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_637299_3_heme.faa.
+
+
+There are 45626 sequences and 35 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_154186_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_154186_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_154186_3_heme.faa.
+
+
+There are 21965 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_719531_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_719531_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_719531_3_heme.faa.
+
+
+There are 33146 sequences and 18 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_287813_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_287813_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_287813_3_heme.faa.
+
+
+There are 130226 sequences and 112 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_20559_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_20559_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_20559_3_heme.faa.
+
+
+There are 18495 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1151249_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1151249_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1151249_3_heme.faa.
+
+
+There are 28001 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_411161_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_411161_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_411161_3_heme.faa.
+
+
+There are 17826 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1233481_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1233481_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1233481_3_heme.faa.
+
+
+There are 38094 sequences and 23 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_215860_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_215860_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_215860_3_heme.faa.
+
+
+There are 20570 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_842879_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_842879_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_842879_3_heme.faa.
+
+
+There are 36425 sequences and 20 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_236418_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_236418_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_236418_3_heme.faa.
+
+
+There are 17466 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1325992_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1325992_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1325992_3_heme.faa.
+
+
+There are 21866 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_740089_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_740089_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_740089_3_heme.faa.
+
+
+There are 63151 sequences and 50 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_82233_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_82233_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_82233_3_heme.faa.
+
+
+There are 27726 sequences and 17 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_421440_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_421440_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_421440_3_heme.faa.
+
+
+There are 18216 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1171807_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1171807_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1171807_3_heme.faa.
+
+
+There are 20572 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_853158_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_853158_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_853158_3_heme.faa.
+
+
+There are 17758 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1243760_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1243760_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1243760_3_heme.faa.
+
+
+There are 25144 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_524230_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_524230_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_524230_3_heme.faa.
+
+
+There are 16871 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1428782_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1428782_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1428782_3_heme.faa.
+
+
+There are 21843 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_750368_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_750368_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_750368_3_heme.faa.
+
+
+There are 24531 sequences and 9 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_555067_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_555067_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_555067_3_heme.faa.
+
+
+There are 24860 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_534509_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_534509_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_534509_3_heme.faa.
+
+
+There are 28282 sequences and 16 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_400882_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_400882_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_400882_3_heme.faa.
+
+
+There are 23921 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_596183_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_596183_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_596183_3_heme.faa.
+
+
+There are 30757 sequences and 19 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_339208_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_339208_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_339208_3_heme.faa.
+
+
+There are 19572 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_966227_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_966227_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_966227_3_heme.faa.
+
+
+There are 18950 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1058738_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1058738_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1058738_3_heme.faa.
+
+
+There are 18939 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1069017_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1069017_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1069017_3_heme.faa.
+
+
+There are 25930 sequences and 13 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_483114_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_483114_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_483114_3_heme.faa.
+
+
+There are 22833 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_657857_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_657857_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_657857_3_heme.faa.
+
+
+There are 18747 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1110133_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1110133_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1110133_3_heme.faa.
+
+
+There are 17316 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1315713_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1315713_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1315713_3_heme.faa.
+
+
+There are 19357 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1017622_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1017622_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1017622_3_heme.faa.
+
+
+There are 17633 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1274597_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1274597_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1274597_3_heme.faa.
+
+
+There are 180658 sequences and 178 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_10280_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_10280_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_10280_3_heme.faa.
+
+
+There are 17011 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1418503_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1418503_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1418503_3_heme.faa.
+
+
+There are 91741 sequences and 95 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_41117_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_41117_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_41117_3_heme.faa.
+
+
+There are 18456 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1120412_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1120412_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1120412_3_heme.faa.
+
+
+There are 39141 sequences and 27 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_205581_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_205581_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_205581_3_heme.faa.
+
+
+There are 19255 sequences and 12 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1007343_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1007343_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1007343_3_heme.faa.
+
+
+There are 20406 sequences and 12 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_863437_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_863437_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_863437_3_heme.faa.
+
+
+There are 20993 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_822321_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_822321_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_822321_3_heme.faa.
+
+
+There are 19922 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_935390_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_935390_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_935390_3_heme.faa.
+
+
+There are 17943 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1223202_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1223202_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1223202_3_heme.faa.
+
+
+There are 17338 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1305434_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1305434_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1305434_3_heme.faa.
+
+
+There are 22118 sequences and 16 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_709252_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_709252_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_709252_3_heme.faa.
+
+
+There are 26921 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_452277_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_452277_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_452277_3_heme.faa.
+
+
+There are 19742 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_945669_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_945669_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_945669_3_heme.faa.
+
+
+There are 22705 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_668136_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_668136_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_668136_3_heme.faa.
+
+
+There are 43660 sequences and 36 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_164465_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_164465_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_164465_3_heme.faa.
+
+
+There are 17224 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1356829_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1356829_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1356829_3_heme.faa.
+
+
+There are 27025 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_441998_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_441998_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_441998_3_heme.faa.
+
+
+There are 24328 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_585904_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_585904_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_585904_3_heme.faa.
+
+
+There are 41092 sequences and 31 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_185023_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_185023_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_185023_3_heme.faa.
+
+
+There are 19328 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_997064_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_997064_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_997064_3_heme.faa.
+
+
+There are 23804 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_606462_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_606462_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_606462_3_heme.faa.
+
+
+There are 19172 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1048459_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1048459_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1048459_3_heme.faa.
+
+
+There are 21462 sequences and 13 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_781205_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_781205_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_781205_3_heme.faa.
+
+
+There are 18379 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1130691_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1130691_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1130691_3_heme.faa.
+
+
+There are 37539 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_226139_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_226139_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_226139_3_heme.faa.
+
+
+There are 18132 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1182086_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1182086_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1182086_3_heme.faa.
+
+
+There are 106669 sequences and 96 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_30838_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_30838_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_30838_3_heme.faa.
+
+
+There are 53292 sequences and 31 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_113070_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_113070_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_113070_3_heme.faa.
+
+
+There are 20242 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_894274_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_894274_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_894274_3_heme.faa.
+
+
+There are 17244 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1397945_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1397945_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1397945_3_heme.faa.
+
+
+There are 48752 sequences and 32 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_133628_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_133628_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_133628_3_heme.faa.
+
+
+There are 18879 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1079296_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1079296_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1079296_3_heme.faa.
+
+
+There are 27292 sequences and 20 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_431719_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_431719_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_431719_3_heme.faa.
+
+
+There are 20224 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_904553_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_904553_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_904553_3_heme.faa.
+
+
+There are 50988 sequences and 42 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_123349_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_123349_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_123349_3_heme.faa.
+
+
+There are 56040 sequences and 47 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_102791_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_102791_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_102791_3_heme.faa.
+
+
+There are 17954 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1212923_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1212923_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1212923_3_heme.faa.
+
+
+There are 19063 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1027901_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1027901_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1027901_3_heme.faa.
+
+
+There are 21044 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_801763_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_801763_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_801763_3_heme.faa.
+
+
+There are 19509 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_976506_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_976506_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_976506_3_heme.faa.
+
+
+There are 31779 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_318650_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_318650_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_318650_3_heme.faa.
+
+
+There are 22391 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_698973_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_698973_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_698973_3_heme.faa.
+
+
+There are 25716 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_503672_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_503672_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_503672_3_heme.faa.
+
+
+There are 23421 sequences and 12 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_627020_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_627020_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_627020_3_heme.faa.
+
+
+There are 19275 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_986785_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_986785_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_986785_3_heme.faa.
+
+
+There are 81651 sequences and 91 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_51396_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_51396_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_51396_3_heme.faa.
+
+
+There are 32627 sequences and 18 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_298092_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_298092_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_298092_3_heme.faa.
+
+
+There are 17995 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1192365_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1192365_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1192365_3_heme.faa.
+
+
+There are 26166 sequences and 18 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_472835_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_472835_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_472835_3_heme.faa.
+
+
+There are 33754 sequences and 20 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_277534_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_277534_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_277534_3_heme.faa.
+
+
+There are 18556 sequences and 9 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1140970_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1140970_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1140970_3_heme.faa.
+
+
+There are 21893 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_729810_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_729810_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_729810_3_heme.faa.
+
+
+There are 19904 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_925111_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_925111_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_925111_3_heme.faa.
+
+
+There are 67810 sequences and 54 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_71954_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_71954_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_71954_3_heme.faa.
+
+
+There are 23340 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_647578_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_647578_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_647578_3_heme.faa.
+
+
+There are 23606 sequences and 12 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_616741_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_616741_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_616741_3_heme.faa.
+
+
+There are 20572 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_832600_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_832600_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_832600_3_heme.faa.
+
+
+There are 17476 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1284876_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1284876_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1284876_3_heme.faa.
+
+
+There are 24926 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_544788_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_544788_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_544788_3_heme.faa.
+
+
+There are 21234 sequences and 16 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_791484_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_791484_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_791484_3_heme.faa.
+
+
+There are 59826 sequences and 35 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_92512_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_92512_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_92512_3_heme.faa.
+
+
+There are 24459 sequences and 9 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_565346_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_565346_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_565346_3_heme.faa.
+
+
+There are 74029 sequences and 73 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_61675_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_61675_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_61675_3_heme.faa.
+
+
+There are 16986 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1387666_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1387666_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1387666_3_heme.faa.
+
+
+There are 18748 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1089575_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1089575_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1089575_3_heme.faa.
+
+
+There are 18308 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1161528_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1161528_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1161528_3_heme.faa.
+
+
+There are 21666 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_760647_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_760647_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_760647_3_heme.faa.
+
+
+There are 17406 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1336271_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1336271_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1336271_3_heme.faa.
+
+
+There are 28984 sequences and 13 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_380324_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_380324_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_380324_3_heme.faa.
+
+
+There are 22496 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_688694_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_688694_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_688694_3_heme.faa.
+
+
+There are 17578 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1295155_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1295155_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1295155_3_heme.faa.
+
+
+There are 25833 sequences and 13 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_493393_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_493393_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_493393_3_heme.faa.
+
+
+There are 17040 sequences and 9 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1367108_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1367108_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1367108_3_heme.faa.
+
+
+There are 24271 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_575625_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_575625_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_575625_3_heme.faa.
+
+
+There are 30088 sequences and 17 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_349487_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_349487_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_349487_3_heme.faa.
+
+
+There are 477621 sequences and 483 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1_3_heme.faa.
+
+
+There are 25603 sequences and 13 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_513951_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_513951_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_513951_3_heme.faa.
+
+
+There are 29304 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_370045_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_370045_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_370045_3_heme.faa.
+
+
+There are 29834 sequences and 18 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_359766_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_359766_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_359766_3_heme.faa.
+
+
+There are 17810 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1264318_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1264318_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1264318_3_heme.faa.
+
+
+There are 34556 sequences and 20 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_267255_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_267255_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_267255_3_heme.faa.
+
+
+There are 17049 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1408224_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1408224_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1408224_3_heme.faa.
+
+
+There are 22544 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_678415_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_678415_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_678415_3_heme.faa.
+
+
+There are 17180 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1377387_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1377387_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1377387_3_heme.faa.
+
+
+There are 18580 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1099854_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1099854_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassemblySPLIT/MHCs/Split_1099854_3_heme.faa.
+

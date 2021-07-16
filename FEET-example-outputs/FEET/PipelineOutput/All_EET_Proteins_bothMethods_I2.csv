@@ -1,0 +1,66 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+I2_megahit_metabat_bin-134,bin-134:075/231_29,CbcB,Not found
+I2_megahit_metabat_bin-134,bin-134:144/231_14,CbcL,Not found
+I2_megahit_metabat_bin-134,bin-134:102/231_7,CbcL,Not found
+I2_megahit_metabat_bin-134,bin-134:179/231_1,CbcL,Not found
+I2_megahit_metabat_bin-134,bin-134:104/231_28,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-134,bin-134:031/231_12,DFE_0449,Periplasmic MHC in PCC
+I2_megahit_metabat_bin-134,bin-134:031/231_13,DFE_0462,Outer Surface MHC
+I2_megahit_metabat_bin-134,bin-134:075/231_28,DFE_0461,Not found
+I2_megahit_metabat_bin-134,bin-134:113/231_11,MtrC_TIGR03507,Outer Surface MHC
+I2_megahit_metabat_bin-134,bin-134:113/231_12,MtrC_TIGR03507,Outer Surface MHC
+I2_megahit_metabat_bin-134,bin-134:113/231_14,MtrB_TIGR03509,Not found
+I2_megahit_metabat_bin-134,bin-134:113/231_15,MtoA,Periplasmic MHC in PCC
+I2_megahit_metabat_bin-134,bin-134:113/231_16,MtrC_TIGR03507,Outer Surface MHC
+I2_megahit_metabat_bin-134,bin-134:128/231_1,DFE_0461,Outer Surface MHC in PCC
+I2_megahit_metabat_bin-134,bin-134:128/231_2,Not found,PCC porin
+I2_megahit_metabat_bin-134,bin-134:113/231_4,Not found,Periplasmic MHC in PCC
+I2_megahit_metabat_bin-169,bin-169:180/376_1,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-169,bin-169:104/376_24,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-169,bin-169:029/376_18,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-169,bin-169:149/376_2,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-071,Not found,Not found,Not found
+I2_megahit_metabat_bin-038,Not found,Not found,Not found
+I2_megahit_metabat_bin-123,Not found,Not found,Not found
+I2_megahit_metabat_bin-215,bin-215:592/658_6,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-215,bin-215:163/658_3,MtoA,Outer Surface MHC
+I2_megahit_metabat_bin-215,bin-215:264/658_1,MtrB_TIGR03509,Not found
+I2_megahit_metabat_bin-066,bin-066:175/493_1,CbcL,Not found
+I2_megahit_metabat_bin-066,bin-066:051/493_1,DFE_0449,Not found
+I2_megahit_metabat_bin-066,bin-066:296/493_5,DFE_0461,Outer Surface MHC
+I2_megahit_metabat_bin-066,bin-066:296/493_9,Not found,Periplasmic MHC in PCC
+I2_megahit_metabat_bin-059,bin-059:223/228_4,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-059,bin-059:177/228_11,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-059,bin-059:083/228_3,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-059,bin-059:227/228_4,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-059,bin-059:019/228_2,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-201,Not found,Not found,Not found
+I2_megahit_metabat_bin-264,bin-264:295/351_23,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-264,bin-264:295/351_24,Cyc1,Not found
+I2_megahit_metabat_bin-264,bin-264:141/351_13,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-264,bin-264:143/351_56,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-264,bin-264:239/351_36,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-194,bin-194:415/462_3,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-194,bin-194:051/462_1,MtrB_TIGR03509,Not found
+I2_megahit_metabat_bin-194,bin-194:118/462_2,MtoA,Not found
+I2_megahit_metabat_bin-146,bin-146:147/287_9,DFE_0461,Not found
+I2_megahit_metabat_bin-028,bin-028:417/552_1,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-028,bin-028:241/552_1,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-028,bin-028:222/552_4,DFE_0461,Not found
+I2_megahit_metabat_bin-149,bin-149:133/277_22,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-149,bin-149:052/277_8,Not found,Outer Surface MHC
+I2_megahit_metabat_bin-116,Not found,Not found,Not found
+I2_megahit_metabat_bin-105,Not found,Not found,Not found
+I2_megahit_metabat_bin-158,bin-158:100/116_20,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-158,bin-158:100/116_70,Cyc2_repCluster1,Not found
+I2_megahit_metabat_bin-158,bin-158:046/116_80,Cyc2_repCluster3,Not found
+I2_megahit_metabat_bin-054,bin-054:087/228_5,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-054,bin-054:118/228_7,MtoA,Not found
+I2_megahit_metabat_bin-279,Not found,Not found,Not found
+I2_megahit_metabat_bin-224,bin-224:634/789_2,Cyc2_repCluster2,Not found
+I2_megahit_metabat_bin-171,Not found,Not found,Not found
+I2_megahit_metabat_bin-280,Not found,Not found,Not found
+I2_megahit_metabat_bin-230,Not found,Not found,Not found
+I2_megahit_metabat_bin-106,bin-106:677/689_1,MtrB_TIGR03509,Not found
+I2_megahit_metabat_bin-106,bin-106:677/689_2,MtoA,Not found
+I2_megahit_metabat_bin-106,bin-106:500/689_2,MtrC_TIGR03507,Not found

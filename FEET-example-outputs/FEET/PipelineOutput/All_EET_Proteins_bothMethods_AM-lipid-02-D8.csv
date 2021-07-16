@@ -1,0 +1,210 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+AM-lipid-02-D8_megahit_metabat_bin-452,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-764,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-396,bin-396:0228/1259_5,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-396,bin-396:0228/1259_6,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-396,bin-396:0003/1259_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-396,bin-396:0960/1259_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-396,bin-396:1074/1259_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-916,bin-916:0846/1127_1,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-916,bin-916:0018/1127_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-895,bin-895:629/682_2,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-895,bin-895:398/682_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-895,bin-895:467/682_3,MtoA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-895,bin-895:474/682_3,FoxY,Not found
+AM-lipid-02-D8_megahit_metabat_bin-123,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0850/1787_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0850/1787_2,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1188/1787_4,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1188/1787_5,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0668/1787_6,DFE_0462,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0944/1787_3,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1230/1787_10,DFE_0462,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1230/1787_7,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1325/1787_2,DFE_0462,Not found
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0053/1787_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0311/1787_4,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0668/1787_3,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:0944/1787_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-326,bin-326:1457/1787_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-712,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-248,bin-248:102/187_28,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-248,bin-248:047/187_24,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-248,bin-248:108/187_36,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-248,bin-248:001/187_11,Cyc2_repCluster1,Not found
+AM-lipid-02-D8_megahit_metabat_bin-262,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-598,bin-598:218/239_66,EetB,Not found
+AM-lipid-02-D8_megahit_metabat_bin-598,bin-598:218/239_67,EetA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-635,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-327,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-528,bin-528:64/74_59,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-528,bin-528:17/74_41,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-528,bin-528:04/74_71,Cyc2_repCluster1,Not found
+AM-lipid-02-D8_megahit_metabat_bin-184,bin-184:014/353_2,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-184,bin-184:014/353_3,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-064,bin-064:548/801_2,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-064,bin-064:516/801_8,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-064,bin-064:730/801_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-007,bin-007:160/268_2,EetA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-007,bin-007:160/268_3,EetB,Not found
+AM-lipid-02-D8_megahit_metabat_bin-134,bin-134:467/745_6,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-134,bin-134:322/745_19,MtrB_TIGR03509,Not found
+AM-lipid-02-D8_megahit_metabat_bin-134,bin-134:322/745_20,MtoA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-380,bin-380:196/655_2,MtrC_TIGR03507,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-380,bin-380:472/655_2,MtrA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-380,bin-380:623/655_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-065,bin-065:298/489_5,DFE_0449,Not found
+AM-lipid-02-D8_megahit_metabat_bin-065,bin-065:156/489_6,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-562,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:476/864_7,Cyc1,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:476/864_8,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:154/864_4,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:474/864_1,CbcL,Outer Surface MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:273/864_3,MtrC_TIGR03507,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:276/864_3,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:562/864_1,MtrB_TIGR03509,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:562/864_2,MtoA,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:562/864_3,MtrC_TIGR03507,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:621/864_2,MtoA,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:676/864_2,DFE_0449,Not found
+AM-lipid-02-D8_megahit_metabat_bin-843,bin-843:474/864_2,Not found,PCC porin
+AM-lipid-02-D8_megahit_metabat_bin-393,bin-393:0225/1067_2,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-393,bin-393:0225/1067_3,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-393,bin-393:0402/1067_7,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-393,bin-393:0590/1067_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-266,bin-266:24/97_18,ImcH,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-266,bin-266:36/97_13,,Not found
+AM-lipid-02-D8_megahit_metabat_bin-266,bin-266:36/97_36,DFE_0448,Not found
+AM-lipid-02-D8_megahit_metabat_bin-266,bin-266:36/97_17,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-133,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:0079/4358_1,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:0374/4358_2,DFE_0448,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:2712/4358_2,DFE_0465,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:2732/4358_2,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:3314/4358_2,FoxY,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:3412/4358_5,DFE_0461,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:3412/4358_8,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:3968/4358_1,DFE_0449,Not found
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:0350/4358_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:3639/4358_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-938,bin-938:4289/4358_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-151,bin-151:208/219_11,EetA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-151,bin-151:208/219_12,EetB,Not found
+AM-lipid-02-D8_megahit_metabat_bin-204,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-842,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-775,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-127,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-074,bin-074:153/956_10,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:265/302_4,ExtA_pcc_cyt,Not found
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:153/302_3,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:153/302_6,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:135/302_16,DFE_0462,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:135/302_17,MtrC_TIGR03507,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:239/302_2,DFE_0448,Not found
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:010/302_6,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:113/302_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-342,bin-342:135/302_18,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-321,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-455,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-836,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0356/1376_4,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0972/1376_3,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0093/1376_2,DFE_0461,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0588/1376_4,DFE_0448,Not found
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0845/1376_4,DFE_0449,Not found
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0942/1376_1,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0093/1376_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-572,bin-572:0124/1376_7,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-265,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-508,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-199,bin-199:049/216_3,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-199,bin-199:201/216_36,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-745,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-030,bin-030:101/421_2,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-030,bin-030:212/421_3,EetA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-030,bin-030:212/421_4,EetB,Not found
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:1048/1776_3,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:0164/1776_2,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:0866/1776_1,ImcH,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:0197/1776_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:0454/1776_4,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-797,bin-797:1213/1776_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:074/198_16,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:006/198_10,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:006/198_11,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:178/198_1,637127417 NP_953771 {porin} hypothetical protein [Geobacter sulfurreducens PCA: NC_002939],Not found
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:178/198_3,637127415 NP_953769 {omc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:178/198_4,MtrC_TIGR03507,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:178/198_2,Not found,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-699,bin-699:150/198_5,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:099/169_7,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:099/169_8,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:116/169_6,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:058/169_14,MtoA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:058/169_15,MtrB_TIGR03509,Not found
+AM-lipid-02-D8_megahit_metabat_bin-591,bin-591:058/169_16,CymA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:111/195_10,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:146/195_82,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:033/195_16,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:048/195_8,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:111/195_12,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:111/195_13,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:118/195_24,DFE_0462,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:118/195_27,DFE_0462,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-520,bin-520:178/195_97,DFE_0449,Not found
+AM-lipid-02-D8_megahit_metabat_bin-162,bin-162:065/532_2,DFE_0449,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-162,bin-162:065/532_8,DFE_0461,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-162,bin-162:065/532_7,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-162,bin-162:465/532_4,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-438,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-812,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-139,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:155/210_5,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:049/210_15,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:106/210_1,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:013/210_13,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:030/210_7,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-107,bin-107:121/210_10,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-034,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-231,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-112,bin-112:086/851_3,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-112,bin-112:086/851_4,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-112,bin-112:683/851_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-792,bin-792:11/40_219,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-792,bin-792:14/40_201,DFE_0462,Not found
+AM-lipid-02-D8_megahit_metabat_bin-792,bin-792:27/40_104,DFE_0449,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-792,bin-792:27/40_105,DFE_0449,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-792,bin-792:14/40_183,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:561/617_1,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:423/617_4,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:423/617_5,ExtB_porin,PCC porin
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:009/617_6,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:056/617_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:423/617_3,637127415 NP_953769 {omc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-597,bin-597:528/617_12,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-401,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-068,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-462,bin-462:037/698_11,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-462,bin-462:006/698_1,Cyc2_repCluster2,Not found
+AM-lipid-02-D8_megahit_metabat_bin-462,bin-462:076/698_1,MtrB_TIGR03509,Not found
+AM-lipid-02-D8_megahit_metabat_bin-462,bin-462:076/698_2,MtoA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-611,bin-611:132/384_2,Cyc2_repCluster3,Not found
+AM-lipid-02-D8_megahit_metabat_bin-611,bin-611:134/384_1,DFE_0461,Not found
+AM-lipid-02-D8_megahit_metabat_bin-110,bin-110:0204/1399_2,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-110,bin-110:0924/1399_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-110,bin-110:1127/1399_4,DFE_0461,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-219,bin-219:050/304_7,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-595,bin-595:0402/1111_2,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-498,bin-498:037/203_16,EetA,Not found
+AM-lipid-02-D8_megahit_metabat_bin-498,bin-498:037/203_17,EetB,Not found
+AM-lipid-02-D8_megahit_metabat_bin-553,Not found,Not found,Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:556/767_5,ExtB_porin,Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:553/767_8,ImcH,Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:195/767_1,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:663/767_2,CbcL,Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:556/767_6,637127416 NP_953770 {pc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Not found
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:720/767_3,MtrC_TIGR03507,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:720/767_2,Not found,Periplasmic MHC in PCC
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:040/767_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:352/767_1,Not found,Outer Surface MHC
+AM-lipid-02-D8_megahit_metabat_bin-735,bin-735:583/767_6,Not found,Outer Surface MHC

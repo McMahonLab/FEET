@@ -1,0 +1,119 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+AM-2014-D2_megahit_metabat_bin-559,bin-559:351/598_1,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-559,bin-559:351/598_2,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-153,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-492,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-440,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-264,bin-264:119/204_68,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-264,bin-264:159/204_40,ImcH,Not found
+AM-2014-D2_megahit_metabat_bin-264,bin-264:159/204_41,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-264,bin-264:159/204_46,DFE_0461,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-264,bin-264:159/204_49,DFE_0462,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-436,bin-436:068/129_29,Cyc2_repCluster3,Not found
+AM-2014-D2_megahit_metabat_bin-436,bin-436:104/129_55,MtrA,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-436,bin-436:120/129_50,FoxY,Not found
+AM-2014-D2_megahit_metabat_bin-436,bin-436:104/129_57,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-630,bin-630:243/641_1,ImcH,Not found
+AM-2014-D2_megahit_metabat_bin-630,bin-630:440/641_2,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-630,bin-630:440/641_3,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-630,bin-630:614/641_8,DFE_0449,Not found
+AM-2014-D2_megahit_metabat_bin-630,bin-630:274/641_2,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-630,bin-630:574/641_2,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-337,bin-337:246/299_13,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-337,bin-337:211/299_5,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-337,bin-337:211/299_6,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-631,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-274,bin-274:089/397_3,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-274,bin-274:089/397_2,DFE_0449,Not found
+AM-2014-D2_megahit_metabat_bin-274,bin-274:365/397_1,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-012,bin-012:62/97_25,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:62/97_26,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:66/97_3,MtoA,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:66/97_4,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:66/97_5,CymA,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:44/97_3,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-012,bin-012:44/97_4,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-352,bin-352:421/465_1,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-352,bin-352:421/465_2,MtoA,Not found
+AM-2014-D2_megahit_metabat_bin-352,bin-352:022/465_1,CymA,Not found
+AM-2014-D2_megahit_metabat_bin-352,bin-352:022/465_2,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-352,bin-352:022/465_3,MtoA,Not found
+AM-2014-D2_megahit_metabat_bin-706,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-154,bin-154:1121/1179_2,ImcH,Not found
+AM-2014-D2_megahit_metabat_bin-154,bin-154:1121/1179_3,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-154,bin-154:0750/1179_2,DFE_0462,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-154,bin-154:0750/1179_3,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-154,bin-154:0750/1179_6,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-528,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-249,bin-249:25/25_92,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-249,bin-249:25/25_216,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-249,bin-249:23/25_258,DFE_0461,Outer Surface MHC in PCC
+AM-2014-D2_megahit_metabat_bin-249,bin-249:23/25_259,DFE_0449,Outer Surface MHC in PCC
+AM-2014-D2_megahit_metabat_bin-249,bin-249:23/25_257,Not found,PCC porin
+AM-2014-D2_megahit_metabat_bin-642,bin-642:092/298_3,DFE_0462,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-642,bin-642:092/298_6,DFE_0462,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-642,bin-642:092/298_1,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-428,bin-428:039/105_13,CymA,Not found
+AM-2014-D2_megahit_metabat_bin-428,bin-428:039/105_14,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-428,bin-428:039/105_15,MtoA,Not found
+AM-2014-D2_megahit_metabat_bin-428,bin-428:008/105_79,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-428,bin-428:008/105_80,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-802,bin-802:029/983_1,DFE_0462,Not found
+AM-2014-D2_megahit_metabat_bin-802,bin-802:322/983_2,MtrA,Not found
+AM-2014-D2_megahit_metabat_bin-092,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-040,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-093,bin-093:103/992_3,MtoA,Not found
+AM-2014-D2_megahit_metabat_bin-093,bin-093:103/992_4,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-093,bin-093:575/992_3,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-604,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-230,bin-230:1340/1396_3,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-230,bin-230:1295/1396_4,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-230,bin-230:1073/1396_1,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-863,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-294,bin-294:003/103_15,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-294,bin-294:094/103_18,DFE_0461,Not found
+AM-2014-D2_megahit_metabat_bin-294,bin-294:094/103_23,DFE_0461,Not found
+AM-2014-D2_megahit_metabat_bin-224,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-780,bin-780:144/179_16,DFE_0462,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-780,bin-780:144/179_18,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-660,bin-660:015/304_2,DFE_0461,Not found
+AM-2014-D2_megahit_metabat_bin-097,bin-097:128/217_7,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-097,bin-097:209/217_36,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-097,bin-097:209/217_37,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-730,bin-730:0978/1570_1,Not found,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-730,bin-730:0729/1570_6,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-730,bin-730:0765/1570_12,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-730,bin-730:0978/1570_2,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:78/81_95,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-148,bin-148:78/81_96,Cyc1,Not found
+AM-2014-D2_megahit_metabat_bin-148,bin-148:78/81_101,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-148,bin-148:62/81_21,MtrB_TIGR03509,Not found
+AM-2014-D2_megahit_metabat_bin-148,bin-148:62/81_22,MtrA,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:62/81_23,MtrC_TIGR03507,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:62/81_24,MtrC_TIGR03507,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:04/81_50,Cyc2_repCluster2,Not found
+AM-2014-D2_megahit_metabat_bin-148,bin-148:29/81_5,CbcL,Outer Surface MHC in PCC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:29/81_3,DFE_0448,Outer Surface MHC in PCC
+AM-2014-D2_megahit_metabat_bin-148,bin-148:29/81_4,Not found,PCC porin
+AM-2014-D2_megahit_metabat_bin-534,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-537,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-810,bin-810:067/990_4,DFE_0462,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-810,bin-810:067/990_7,DFE_0462,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-810,bin-810:689/990_2,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-103,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:400/870_2,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:400/870_3,ImcH,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:414/870_3,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:224/870_3,DFE_0465,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:400/870_1,DFE_0448,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:689/870_3,DFE_0462,Not found
+AM-2014-D2_megahit_metabat_bin-388,bin-388:060/870_2,Not found,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-080,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-866,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-052,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-405,Not found,Not found,Not found
+AM-2014-D2_megahit_metabat_bin-312,bin-312:090/383_2,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-312,bin-312:090/383_3,CbcL,Not found
+AM-2014-D2_megahit_metabat_bin-312,bin-312:062/383_5,DFE_0462,Periplasmic MHC in PCC
+AM-2014-D2_megahit_metabat_bin-312,bin-312:062/383_8,DFE_0462,Outer Surface MHC
+AM-2014-D2_megahit_metabat_bin-312,bin-312:062/383_3,Not found,Outer Surface MHC

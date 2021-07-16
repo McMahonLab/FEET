@@ -1,0 +1,75 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+KT6_megahit_metabat_bin-493,bin-493:36/97_18,ImcH,Periplasmic MHC in PCC
+KT6_megahit_metabat_bin-493,bin-493:37/97_26,DFE_0462,Periplasmic MHC in PCC
+KT6_megahit_metabat_bin-493,bin-493:36/97_16,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-493,bin-493:37/97_27,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-505,Not found,Not found,Not found
+KT6_megahit_metabat_bin-822,bin-822:157/198_3,DFE_0461,Not found
+KT6_megahit_metabat_bin-436,Not found,Not found,Not found
+KT6_megahit_metabat_bin-510,Not found,Not found,Not found
+KT6_megahit_metabat_bin-626,Not found,Not found,Not found
+KT6_megahit_metabat_bin-321,bin-321:0652/1002_2,DFE_0461,Not found
+KT6_megahit_metabat_bin-321,bin-321:0831/1002_2,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-762,bin-762:108/359_2,EetB,Not found
+KT6_megahit_metabat_bin-762,bin-762:108/359_3,EetA,Not found
+KT6_megahit_metabat_bin-487,Not found,Not found,Not found
+KT6_megahit_metabat_bin-717,Not found,Not found,Not found
+KT6_megahit_metabat_bin-564,Not found,Not found,Not found
+KT6_megahit_metabat_bin-653,Not found,Not found,Not found
+KT6_megahit_metabat_bin-496,Not found,Not found,Not found
+KT6_megahit_metabat_bin-433,Not found,Not found,Not found
+KT6_megahit_metabat_bin-826,Not found,Not found,Not found
+KT6_megahit_metabat_bin-168,Not found,Not found,Not found
+KT6_megahit_metabat_bin-275,Not found,Not found,Not found
+KT6_megahit_metabat_bin-642,Not found,Not found,Not found
+KT6_megahit_metabat_bin-248,bin-248:0402/1467_1,DFE_0449,Outer Surface MHC
+KT6_megahit_metabat_bin-248,bin-248:0716/1467_2,DFE_0461,Outer Surface MHC
+KT6_megahit_metabat_bin-248,bin-248:0959/1467_2,DFE_0449,Not found
+KT6_megahit_metabat_bin-248,bin-248:0059/1467_1,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-248,bin-248:0313/1467_2,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-846,Not found,Not found,Not found
+KT6_megahit_metabat_bin-599,bin-599:021/407_2,MtrB_TIGR03509,Not found
+KT6_megahit_metabat_bin-431,Not found,Not found,Not found
+KT6_megahit_metabat_bin-620,bin-620:0885/1164_4,MtrB_TIGR03509,Not found
+KT6_megahit_metabat_bin-620,bin-620:1091/1164_1,MtoA,Not found
+KT6_megahit_metabat_bin-382,bin-382:154/204_3,CymA,Not found
+KT6_megahit_metabat_bin-382,bin-382:154/204_4,MtrB_TIGR03509,Not found
+KT6_megahit_metabat_bin-382,bin-382:154/204_5,MtoA,Not found
+KT6_megahit_metabat_bin-382,bin-382:031/204_7,DFE_0449,Not found
+KT6_megahit_metabat_bin-382,bin-382:147/204_2,EetA,Not found
+KT6_megahit_metabat_bin-382,bin-382:147/204_3,EetB,Not found
+KT6_megahit_metabat_bin-816,bin-816:204/375_1,MtoA,Outer Surface MHC
+KT6_megahit_metabat_bin-816,bin-816:204/375_2,MtrB_TIGR03509,Not found
+KT6_megahit_metabat_bin-173,Not found,Not found,Not found
+KT6_megahit_metabat_bin-429,Not found,Not found,Not found
+KT6_megahit_metabat_bin-817,bin-817:265/680_2,MtoA,Not found
+KT6_megahit_metabat_bin-638,Not found,Not found,Not found
+KT6_megahit_metabat_bin-167,Not found,Not found,Not found
+KT6_megahit_metabat_bin-595,Not found,Not found,Not found
+KT6_megahit_metabat_bin-377,bin-377:008/683_2,DFE_0461,Not found
+KT6_megahit_metabat_bin-525,Not found,Not found,Not found
+KT6_megahit_metabat_bin-688,Not found,Not found,Not found
+KT6_megahit_metabat_bin-546,Not found,Not found,Not found
+KT6_megahit_metabat_bin-084,bin-084:107/466_3,Cyc1,Not found
+KT6_megahit_metabat_bin-084,bin-084:107/466_4,Cyc2_repCluster2,Not found
+KT6_megahit_metabat_bin-084,bin-084:075/466_1,MtoA,Not found
+KT6_megahit_metabat_bin-526,bin-526:0306/1491_1,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-518,Not found,Not found,Not found
+KT6_megahit_metabat_bin-224,bin-224:202/743_1,Cyc2_repCluster2,Not found
+KT6_megahit_metabat_bin-224,bin-224:011/743_1,DFE_0462,Not found
+KT6_megahit_metabat_bin-224,bin-224:101/743_2,DFE_0461,Outer Surface MHC
+KT6_megahit_metabat_bin-224,bin-224:203/743_2,DFE_0461,Outer Surface MHC
+KT6_megahit_metabat_bin-224,bin-224:590/743_3,DFE_0465,Outer Surface MHC
+KT6_megahit_metabat_bin-224,bin-224:203/743_1,Not found,Periplasmic MHC in PCC
+KT6_megahit_metabat_bin-224,bin-224:433/743_1,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-224,bin-224:684/743_2,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-107,Not found,Not found,Not found
+KT6_megahit_metabat_bin-597,bin-597:128/272_2,DFE_0449,Not found
+KT6_megahit_metabat_bin-597,bin-597:201/272_4,EetA,Not found
+KT6_megahit_metabat_bin-597,bin-597:231/272_2,MtoA,Outer Surface MHC
+KT6_megahit_metabat_bin-303,Not found,Not found,Not found
+KT6_megahit_metabat_bin-584,bin-584:028/259_5,FoxZ,Not found
+KT6_megahit_metabat_bin-051,Not found,Not found,Not found
+KT6_megahit_metabat_bin-257,bin-257:318/484_3,DFE_0462,Not found
+KT6_megahit_metabat_bin-290,bin-290:237/507_6,Not found,Outer Surface MHC
+KT6_megahit_metabat_bin-404,Not found,Not found,Not found

@@ -1,0 +1,17 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	:	0.4484222	0.2089841	3.1568	0.10748342	1.0783118	Periplasmic	LinL4_megahit_metabat_bin-0741___bin-0741:113/577_2
+#2	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.2769681	0.0701907	4.053588	0.21180573	0.38744793	Periplasmic	LinL4_megahit_metabat_bin-0741___bin-0741:335/577_2
+#3	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.4240759	0.07255125	4.097078	0.18361106	0.22268453	Periplasmic	LinL4_megahit_metabat_bin-0741___bin-0741:400/577_3
+#4	Extracellular	Extracellular	Extracellular	InnerMembrane	Extracellular	:	2.539016	0.69343632	0.8218907	0.69263619	0.25302116	Extracellular	LinL4_megahit_metabat_bin-0250___bin-0250:103/109_10
+#5	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.4607065	0.667287729	3.137741	0.21045967	0.5238036	Periplasmic	LinL4_megahit_metabat_bin-0250___bin-0250:103/109_12
+#6	Periplasmic	Extracellular	Periplasmic	Extracellular	Periplasmic	:	2.193024	0.37065465	2.228383	0.05162461	0.15631437	Periplasmic	LinL4_megahit_metabat_bin-0250___bin-0250:109/109_22
+#7	Extracellular	Extracellular	Extracellular	OuterMembrane	Periplasmic	:	2.491517	0.946821	1.2944151	0.16996757	0.09727993	Extracellular	LinL4_megahit_metabat_bin-0250___bin-0250:109/109_23
+#8	Extracellular	Extracellular	Extracellular	OuterMembrane	Periplasmic	:	2.531255	0.9822366	1.1277303	0.2795628	0.07921611	Extracellular	LinL4_megahit_metabat_bin-0250___bin-0250:109/109_24
+#9	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	Periplasmic	:	0.3083368	0.076450695	3.885115	0.11195664	0.61814016	Periplasmic	LinL4_megahit_metabat_bin-0066___bin-0066:031/245_1
+#10	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.5313866	1.503456	2.7239792	0.1874333	0.05374592	Periplasmic	LinL4_megahit_metabat_bin-0693___bin-0693:039/113_49
+#11	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.2346044	0.05518741	3.6104161	0.022969839	0.07682255	Periplasmic	LinL4_megahit_metabat_bin-0693___bin-0693:095/113_59
+#12	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	0.948115	0.100601704	3.844968	0.042068551	0.064247611	Periplasmic	LinL4_megahit_metabat_bin-0616___bin-0616:395/798_2
+#13	Periplasmic	Periplasmic	Cytoplasmic	Cytoplasmic	Periplasmic	:	0.14282641	0.3455039	3.167426	0.053208263	1.2910368	Periplasmic	LinL4_megahit_metabat_bin-0209___bin-0209:127/396_1
+#14	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.1137065	0.04783786	3.228173	0.7088061	0.9014768	Periplasmic	LinL4_megahit_metabat_bin-1161___bin-1161:067/994_2
+#15	Extracellular	Extracellular	OuterMembrane	OuterMembrane	Extracellular	:	2.870001	1.33070288	0.703793	0.04520963	0.05029395	Extracellular	LinL4_megahit_metabat_bin-1161___bin-1161:510/994_2
+#16	Periplasmic	Extracellular	Periplasmic	Extracellular	Periplasmic	:	1.433738	0.5959114	2.345931	0.07802384	0.546396	Periplasmic	LinL4_megahit_metabat_bin-1161___bin-1161:517/994_7

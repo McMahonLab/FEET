@@ -1,0 +1,9 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.3874827	0.20501668	3.764902	0.12109086	0.52150628	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_017___BLI20_coassembly_000000082785_2
+#2	Extracellular	Periplasmic	Extracellular	InnerMembrane	Periplasmic	:	1.414942	0.372727	1.6283495	0.9402568	0.64372393	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_017___BLI20_coassembly_000000012525_3
+#3	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.5105186	0.597496278	3.643924	0.1983941444	0.049668497	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_017___BLI20_coassembly_000000083558_1
+#4	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.27162458	0.261042369	4.279487	0.040249897	0.14759471	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_017___BLI20_coassembly_000000004864_2
+#5	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.497168	0.54440037	2.472386	0.16186428	0.32418	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_017___BLI20_coassembly_000000092997_5
+#6	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.9289081	0.109950857	3.668471	0.12423921	0.16843146	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_015___BLI20_coassembly_000000098891_2
+#7	Periplasmic	Periplasmic	Cytoplasmic	Cytoplasmic	Periplasmic	:	0.08901913	0.04398488	3.460809	0.16860738	1.23758019	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_015___BLI20_coassembly_000000127059_3
+#8	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.18789468	0.0948767918	4.421779	0.21709578	0.07835211	Periplasmic	BLiMMPbinsFinal-_-BLI20_hgcA_015___BLI20_coassembly_000000080514_1

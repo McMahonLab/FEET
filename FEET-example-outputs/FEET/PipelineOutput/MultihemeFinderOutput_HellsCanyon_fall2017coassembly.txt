@@ -1,0 +1,4 @@
+
+There are 4568622 sequences and 2318 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassembly/MHCs/fall2017coassembly_assembly_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassembly/MHCs/fall2017coassembly_assembly_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon_fall2017coassembly/MHCs/fall2017coassembly_assembly_3_heme.faa.
+

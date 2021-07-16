@@ -1,0 +1,8 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.16472074	0.186078773	4.297283	0.097638464	0.25428105	Periplasmic	C3_megahit_metabat_bin-431___bin-431:174/379_2
+#2	Periplasmic	Periplasmic	Extracellular	Extracellular	Periplasmic	:	2.04548	0.1312062	2.5820679	0.052122414	0.1891242	Periplasmic	C3_megahit_metabat_bin-431___bin-431:204/379_80
+#3	Periplasmic	Periplasmic	Cytoplasmic	InnerMembrane	Periplasmic	:	0.07992177	0.262202184	2.704081	0.596785347	1.3570083	Periplasmic	C3_megahit_metabat_bin-431___bin-431:247/379_34
+#4	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.6232305	0.93414688	3.3620041	0.0599754	0.020643339	Periplasmic	C3_megahit_metabat_bin-688___bin-688:260/550_4
+#5	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.8141231	1.1535361	2.9624621	0.0476125	0.02226688	Periplasmic	C3_megahit_metabat_bin-619___bin-619:123/263_2
+#6	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.6115218	0.06888373	3.736075	0.17092144	0.4125998	Periplasmic	C3_megahit_metabat_bin-115___bin-115:230/471_5
+#7	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.890007	0.34956655	3.092733	0.13717798	0.5305162	Periplasmic	C3_megahit_metabat_bin-687___bin-687:027/598_2

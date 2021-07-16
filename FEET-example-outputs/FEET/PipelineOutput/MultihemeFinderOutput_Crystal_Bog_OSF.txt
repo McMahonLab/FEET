@@ -1,0 +1,360 @@
+
+There are 787 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_35_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_35_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_35_3_heme.faa.
+
+
+There are 1271 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_56_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_56_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_56_3_heme.faa.
+
+
+There are 3207 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_2_3_heme.faa.
+
+
+There are 2384 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_2_3_heme.faa.
+
+
+There are 1285 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_17_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_17_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_17_3_heme.faa.
+
+
+There are 3340 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_34_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_34_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_34_3_heme.faa.
+
+
+There are 3679 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_12_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_12_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_12_3_heme.faa.
+
+
+There are 2824 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025365-bin_3_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025365-bin_3_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025365-bin_3_3_heme.faa.
+
+
+There are 2041 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025782-bin_10_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025782-bin_10_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025782-bin_10_3_heme.faa.
+
+
+There are 1496 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_33_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_33_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_33_3_heme.faa.
+
+
+There are 1486 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_42_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_42_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_42_3_heme.faa.
+
+
+There are 1624 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025369-bin_18_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025369-bin_18_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025369-bin_18_3_heme.faa.
+
+
+There are 1262 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_21_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_21_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_21_3_heme.faa.
+
+
+There are 2825 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_4_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_4_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_4_3_heme.faa.
+
+
+There are 2856 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_39_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_39_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_39_3_heme.faa.
+
+
+There are 2500 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_7_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_7_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_7_3_heme.faa.
+
+
+There are 2783 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_24_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_24_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_24_3_heme.faa.
+
+
+There are 2014 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025411-bin_12_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025411-bin_12_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025411-bin_12_3_heme.faa.
+
+
+There are 2016 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025356-bin_3_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025356-bin_3_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025356-bin_3_3_heme.faa.
+
+
+There are 855 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_40_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_40_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_40_3_heme.faa.
+
+
+There are 2104 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_8_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_8_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_8_3_heme.faa.
+
+
+There are 780 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_6_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_6_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_6_3_heme.faa.
+
+
+There are 1348 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_13_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_13_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_13_3_heme.faa.
+
+
+There are 1355 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025779-bin_2_3_heme.faa.
+
+
+There are 3037 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025375-bin_9_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025375-bin_9_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025375-bin_9_3_heme.faa.
+
+
+There are 1467 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_1_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_1_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_1_3_heme.faa.
+
+
+There are 1101 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025428-bin_21_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025428-bin_21_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025428-bin_21_3_heme.faa.
+
+
+There are 4478 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_80_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_80_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_80_3_heme.faa.
+
+
+There are 3124 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025450-bin_20_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025450-bin_20_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025450-bin_20_3_heme.faa.
+
+
+There are 1633 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_3_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_3_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_3_3_heme.faa.
+
+
+There are 2494 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025788-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025788-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025788-bin_2_3_heme.faa.
+
+
+There are 1793 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_24_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_24_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_24_3_heme.faa.
+
+
+There are 1653 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_30_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_30_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_30_3_heme.faa.
+
+
+There are 1325 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025372-bin_6_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025372-bin_6_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025372-bin_6_3_heme.faa.
+
+
+There are 1163 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_8_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_8_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_8_3_heme.faa.
+
+
+There are 1489 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025355-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025355-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025355-bin_2_3_heme.faa.
+
+
+There are 1452 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_17_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_17_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_17_3_heme.faa.
+
+
+There are 2526 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_29_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_29_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_29_3_heme.faa.
+
+
+There are 2531 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025421-bin_16_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025421-bin_16_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025421-bin_16_3_heme.faa.
+
+
+There are 1150 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_26_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_26_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025437-bin_26_3_heme.faa.
+
+
+There are 776 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_18_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_18_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_18_3_heme.faa.
+
+
+There are 2922 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025367-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025367-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025367-bin_2_3_heme.faa.
+
+
+There are 1903 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_26_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_26_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_26_3_heme.faa.
+
+
+There are 3079 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025415-bin_17_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025415-bin_17_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025415-bin_17_3_heme.faa.
+
+
+There are 1384 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_7_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_7_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_7_3_heme.faa.
+
+
+There are 5595 sequences and 6 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_15_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_15_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_15_3_heme.faa.
+
+
+There are 2620 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_16_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_16_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_16_3_heme.faa.
+
+
+There are 2086 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_1_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_1_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025449-bin_1_3_heme.faa.
+
+
+There are 711 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_48_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_48_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_48_3_heme.faa.
+
+
+There are 1552 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025337-bin_7_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025337-bin_7_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025337-bin_7_3_heme.faa.
+
+
+There are 2746 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_45_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_45_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_45_3_heme.faa.
+
+
+There are 1271 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_21_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_21_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025785-bin_21_3_heme.faa.
+
+
+There are 682 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_53_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_53_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_53_3_heme.faa.
+
+
+There are 3372 sequences and 7 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_16_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_16_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_16_3_heme.faa.
+
+
+There are 3544 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_3_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_3_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_3_3_heme.faa.
+
+
+There are 1496 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_9_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_9_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025378-bin_9_3_heme.faa.
+
+
+There are 4256 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_3_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_3_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025723-bin_3_3_heme.faa.
+
+
+There are 1248 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_11_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_11_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025396-bin_11_3_heme.faa.
+
+
+There are 1733 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025598-bin_35_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025598-bin_35_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025598-bin_35_3_heme.faa.
+
+
+There are 2023 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_46_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_46_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_46_3_heme.faa.
+
+
+There are 1502 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_12_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_12_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_12_3_heme.faa.
+
+
+There are 2793 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_16_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_16_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_16_3_heme.faa.
+
+
+There are 3562 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_11_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_11_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_11_3_heme.faa.
+
+
+There are 1018 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_31_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_31_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_31_3_heme.faa.
+
+
+There are 3086 sequences and 12 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025420-bin_10_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025420-bin_10_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025420-bin_10_3_heme.faa.
+
+
+There are 3077 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_42_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_42_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_42_3_heme.faa.
+
+
+There are 2219 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_1_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_1_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_1_3_heme.faa.
+
+
+There are 1715 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025466-bin_30_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025466-bin_30_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025466-bin_30_3_heme.faa.
+
+
+There are 1265 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_28_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_28_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_28_3_heme.faa.
+
+
+There are 1459 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_10_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_10_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025403-bin_10_3_heme.faa.
+
+
+There are 1408 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025416-bin_19_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025416-bin_19_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025416-bin_19_3_heme.faa.
+
+
+There are 3261 sequences and 9 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_66_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_66_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_66_3_heme.faa.
+
+
+There are 2334 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_21_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_21_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_21_3_heme.faa.
+
+
+There are 2861 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_17_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_17_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_17_3_heme.faa.
+
+
+There are 2618 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_35_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_35_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_35_3_heme.faa.
+
+
+There are 2484 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_9_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_9_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025395-bin_9_3_heme.faa.
+
+
+There are 1830 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_10_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_10_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025385-bin_10_3_heme.faa.
+
+
+There are 3525 sequences and 15 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_36_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_36_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_36_3_heme.faa.
+
+
+There are 2775 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_70_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_70_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025838-bin_70_3_heme.faa.
+
+
+There are 1302 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_14_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_14_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025487-bin_14_3_heme.faa.
+
+
+There are 1369 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_40_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_40_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_40_3_heme.faa.
+
+
+There are 703 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_23_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_23_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_23_3_heme.faa.
+
+
+There are 1516 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_20_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_20_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025648-bin_20_3_heme.faa.
+
+
+There are 1642 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_17_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_17_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025470-bin_17_3_heme.faa.
+
+
+There are 2328 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_14_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_14_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025424-bin_14_3_heme.faa.
+
+
+There are 2077 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_2_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_2_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_2_3_heme.faa.
+
+
+There are 1250 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_8_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_8_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025388-bin_8_3_heme.faa.
+
+
+There are 2720 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_41_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_41_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_41_3_heme.faa.
+
+
+There are 1188 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_23_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_23_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025405-bin_23_3_heme.faa.
+
+
+There are 1232 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_22_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_22_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_Crystal_Bog_OSF/MHCs/3300025435-bin_22_3_heme.faa.
+

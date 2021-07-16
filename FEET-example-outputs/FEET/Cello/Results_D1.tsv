@@ -1,0 +1,16 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Cytoplasmic	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	:	0.4063904	0.06837014	2.54285	0.25145722	1.73093287	Periplasmic	D1_megahit_metabat_bin-165___bin-165:003/962_2
+#2	Extracellular	Extracellular	Extracellular	OuterMembrane	Extracellular	:	3.168537	0.90051367	0.4100188	0.423175444	0.097753305	Extracellular	D1_megahit_metabat_bin-165___bin-165:151/962_7
+#3	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.047928	0.180072884	3.511578	0.12336333	0.13705892	Periplasmic	D1_megahit_metabat_bin-165___bin-165:370/962_2
+#4	InnerMembrane	InnerMembrane	Cytoplasmic	InnerMembrane	InnerMembrane	:	0.17412076	0.07893569	0.7837528	2.4643568	1.4988345	InnerMembrane	D1_megahit_metabat_bin-165___bin-165:370/962_3
+#5	Periplasmic	OuterMembrane	Periplasmic	InnerMembrane	Periplasmic	:	0.5520684	0.7919116	2.316558	1.089049	0.2504133	Periplasmic	D1_megahit_metabat_bin-165___bin-165:532/962_4
+#6	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.6136062	0.527758738	3.225545	0.200452545	0.43263631	Periplasmic	D1_megahit_metabat_bin-165___bin-165:706/962_2
+#7	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.21817	0.074522306	4.627847	0.0302757343	0.04918491	Periplasmic	D1_megahit_metabat_bin-165___bin-165:764/962_3
+#8	Periplasmic	Periplasmic	Cytoplasmic	InnerMembrane	Periplasmic	:	0.1840984	0.09379658	2.7214295	0.9583096	1.0423637	Periplasmic	D1_megahit_metabat_bin-165___bin-165:775/962_5
+#9	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	Periplasmic	:	1.2396049	0.12214769	2.603673	0.12011929	0.9144531	Periplasmic	D1_megahit_metabat_bin-121___bin-121:088/256_3
+#10	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.4027314	0.47170882	3.600745	0.25416066	0.2706539	Periplasmic	D1_megahit_metabat_bin-210___bin-210:399/577_2
+#11	Periplasmic	Periplasmic	Periplasmic	InnerMembrane	Periplasmic	:	0.7030924	0.05727419	3.498795	0.44020974	0.300628	Periplasmic	D1_megahit_metabat_bin-382___bin-382:295/532_1
+#12	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.1387227	0.106783807	3.685918	0.0268265799	0.041749333	Periplasmic	D1_megahit_metabat_bin-079___bin-079:060/694_4
+#13	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	Cytoplasmic	:	0.3874954	0.338081782	2.554594	0.10148413	1.6183458	Periplasmic	D1_megahit_metabat_bin-408___bin-408:033/599_1
+#14	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.27424329	0.189425037	3.781612	0.38088385	0.3738364	Periplasmic	D1_megahit_metabat_bin-408___bin-408:525/599_1
+#15	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.4614768	0.124528854	3.555703	0.16243743	0.6958543	Periplasmic	D1_megahit_metabat_bin-408___bin-408:598/599_3

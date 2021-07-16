@@ -1,0 +1,10 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.1039038	0.077653556	4.455095	0.11385068	0.24949708	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-778___bin-778:013/134_31
+#2	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	0.9165608	0.168474641	3.831747	0.031051225	0.05216482	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-778___bin-778:035/134_10
+#3	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	0.689728	0.44973621	3.504329	0.12688677	0.22932057	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-356___bin-356:157/229_16
+#4	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.4966586	0.04709005	4.294737	0.03388041	0.12763301	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-862___bin-862:0318/1969_2
+#5	Periplasmic	Periplasmic	Cytoplasmic	Cytoplasmic	Periplasmic	:	0.19478318	0.28415469	3.112028	0.04963058	1.3594027	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-862___bin-862:0805/1969_13
+#6	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	1.0829876	0.105244583	3.378917	0.107842891	0.3250078	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-862___bin-862:1854/1969_1
+#7	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.989296	0.087642869	2.7674614	0.049298338	0.10630155	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-291___bin-291:0218/1011_3
+#8	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.5938647	0.17062843	3.893684	0.03737858	0.3044438	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-291___bin-291:0416/1011_2
+#9	Periplasmic	Periplasmic	Cytoplasmic	InnerMembrane	Periplasmic	:	0.15391724	0.29111379	2.716144	0.53165045	1.30717414	Periplasmic	AM-lipid-01-D6_megahit_metabat_bin-291___bin-291:0458/1011_2

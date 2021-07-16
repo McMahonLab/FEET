@@ -1,0 +1,76 @@
+
+There are 2659 sequences and 10 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0080_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0080_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0080_3_heme.faa.
+
+
+There are 1973 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0220_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0220_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0220_3_heme.faa.
+
+
+There are 2082 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0101_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0101_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0101_3_heme.faa.
+
+
+There are 2262 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0240_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0240_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0240_3_heme.faa.
+
+
+There are 1553 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0050_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0050_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0050_3_heme.faa.
+
+
+There are 3362 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0020_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0020_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0020_3_heme.faa.
+
+
+There are 3260 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0041_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0041_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0041_3_heme.faa.
+
+
+There are 2297 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0110_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0110_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0110_3_heme.faa.
+
+
+There are 4088 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0040_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0040_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0040_3_heme.faa.
+
+
+There are 2891 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0250_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0250_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0250_3_heme.faa.
+
+
+There are 3905 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0141_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0141_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0141_3_heme.faa.
+
+
+There are 1742 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0010_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0010_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0010_3_heme.faa.
+
+
+There are 3236 sequences and 4 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0070_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0070_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0070_3_heme.faa.
+
+
+There are 3855 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0260_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0260_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0260_3_heme.faa.
+
+
+There are 3689 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0261_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0261_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0261_3_heme.faa.
+
+
+There are 2177 sequences and 14 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0210_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0210_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0210_3_heme.faa.
+
+
+There are 3801 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0180_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0180_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0180_3_heme.faa.
+
+
+There are 2439 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0270_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0270_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0270_3_heme.faa.
+
+
+There are 4273 sequences and 8 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0130_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0130_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_HellsCanyon13genomes/MHCs/anvio_hgcA_0130_3_heme.faa.
+

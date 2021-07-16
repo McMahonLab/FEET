@@ -1,0 +1,10 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.1578285	0.248472569	4.427899	0.022651451	0.14314853	Periplasmic	C4_megahit_metabat_bin-831___bin-831:437/699_3
+#2	Periplasmic	Periplasmic	Extracellular	Extracellular	Periplasmic	:	1.9221654	0.29827934	2.7181268	0.0158769838	0.045551576	Periplasmic	C4_megahit_metabat_bin-831___bin-831:437/699_4
+#3	Periplasmic	Periplasmic	Cytoplasmic	InnerMembrane	Periplasmic	:	0.07992177	0.262202184	2.704081	0.596785347	1.3570083	Periplasmic	C4_megahit_metabat_bin-383___bin-383:048/401_34
+#4	Periplasmic	Periplasmic	Extracellular	Extracellular	Periplasmic	:	2.04548	0.1312062	2.5820679	0.052122414	0.1891242	Periplasmic	C4_megahit_metabat_bin-383___bin-383:226/401_39
+#5	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.16472074	0.186078773	4.297283	0.097638464	0.25428105	Periplasmic	C4_megahit_metabat_bin-383___bin-383:244/401_2
+#6	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.3434799	0.22433563	3.776913	0.07601359	0.579259	Periplasmic	C4_megahit_metabat_bin-887___bin-887:074/488_1
+#7	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.23077137	0.240390859	3.862502	0.0228231	0.6435132	Periplasmic	C4_megahit_metabat_bin-887___bin-887:074/488_2
+#8	Cytoplasmic	InnerMembrane	Cytoplasmic	InnerMembrane	InnerMembrane	:	0.1343596	0.042103402	0.509948	2.355897	1.9576924	InnerMembrane	C4_megahit_metabat_bin-887___bin-887:434/488_1
+#9	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.3875648	0.45749943	2.947698	0.15605078	1.0511866	Periplasmic	C4_megahit_metabat_bin-887___bin-887:462/488_1

@@ -1,0 +1,52 @@
+
+There are 792 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1324_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1324_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1324_3_heme.faa.
+
+
+There are 1913 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1007_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1007_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1007_3_heme.faa.
+
+
+There are 1466 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0920_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0920_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0920_3_heme.faa.
+
+
+There are 1434 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1424_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1424_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1424_3_heme.faa.
+
+
+There are 1601 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0105_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0105_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0105_3_heme.faa.
+
+
+There are 1013 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1150_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1150_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1150_3_heme.faa.
+
+
+There are 356 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0475_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0475_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0475_3_heme.faa.
+
+
+There are 71014 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1149_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1149_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1149_3_heme.faa.
+
+
+There are 1628 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1358_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1358_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1358_3_heme.faa.
+
+
+There are 915 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0636_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0636_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0636_3_heme.faa.
+
+
+There are 1775 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1093_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1093_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-1093_3_heme.faa.
+
+
+There are 1642 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0206_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0206_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0206_3_heme.faa.
+
+
+There are 1164 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0749_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0749_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_AM-lipid-01-D4/MHCs/AM-lipid-01-D4_megahit_metabat_bin-0749_3_heme.faa.
+

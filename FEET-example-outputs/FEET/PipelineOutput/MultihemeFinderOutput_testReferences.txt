@@ -1,0 +1,20 @@
+
+There are 3417 sequences and 54 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Geobacter_sulfurreducens_PCA_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Geobacter_sulfurreducens_PCA_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Geobacter_sulfurreducens_PCA_3_heme.faa.
+
+
+There are 4595 sequences and 11 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Shewanella_oneidensis_MR-1_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Shewanella_oneidensis_MR-1_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Shewanella_oneidensis_MR-1_3_heme.faa.
+
+
+There are 5600 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Escherichia_coli_FORC_028_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Escherichia_coli_FORC_028_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Escherichia_coli_FORC_028_3_heme.faa.
+
+
+There are 3300 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Synechocystis_sp_PCC6803_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Synechocystis_sp_PCC6803_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Synechocystis_sp_PCC6803_3_heme.faa.
+
+
+There are 2009 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Chlorobaculum_tepidum_TLS_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Chlorobaculum_tepidum_TLS_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/OutputFeGenie/OutputFeGenie_testReferences/MHCs/Chlorobaculum_tepidum_TLS_3_heme.faa.
+

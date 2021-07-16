@@ -1,0 +1,84 @@
+
+There are 2732 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0741_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0741_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0741_3_heme.faa.
+
+
+There are 900 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0278_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0278_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0278_3_heme.faa.
+
+
+There are 1509 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0667_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0667_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0667_3_heme.faa.
+
+
+There are 1406 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1207_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1207_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1207_3_heme.faa.
+
+
+There are 2065 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0251_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0251_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0251_3_heme.faa.
+
+
+There are 2728 sequences and 5 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0250_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0250_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0250_3_heme.faa.
+
+
+There are 1338 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0875_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0875_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0875_3_heme.faa.
+
+
+There are 5428 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1014_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1014_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1014_3_heme.faa.
+
+
+There are 3164 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0079_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0079_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0079_3_heme.faa.
+
+
+There are 1347 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0209_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0209_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0209_3_heme.faa.
+
+
+There are 1671 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0730_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0730_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0730_3_heme.faa.
+
+
+There are 3594 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0616_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0616_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0616_3_heme.faa.
+
+
+There are 1581 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0337_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0337_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0337_3_heme.faa.
+
+
+There are 1385 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0820_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0820_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0820_3_heme.faa.
+
+
+There are 1053 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0529_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0529_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0529_3_heme.faa.
+
+
+There are 1012 sequences and 1 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0066_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0066_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0066_3_heme.faa.
+
+
+There are 3951 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0200_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0200_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0200_3_heme.faa.
+
+
+There are 4439 sequences and 3 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1161_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1161_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1161_3_heme.faa.
+
+
+There are 547 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0260_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0260_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0260_3_heme.faa.
+
+
+There are 3616 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0693_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0693_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-0693_3_heme.faa.
+
+
+There are 2879 sequences and 0 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1053_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1053_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_LinL4/MHCs/LinL4_megahit_metabat_bin-1053_3_heme.faa.
+

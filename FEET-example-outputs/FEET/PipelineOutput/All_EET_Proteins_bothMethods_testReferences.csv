@@ -1,0 +1,72 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+Geobacter_sulfurreducens_PCA,AE017180.2_268,CbcL,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_582,CbcB,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_583,CbcA,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_686,OmcS,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_1044,Cyc2_repCluster3,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_1312,OmcZ,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2052,OmcZ,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2404,OmcF,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2463,DFE_0463,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2464,DFE_0462,Periplasmic MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2465,DFE_0461,Periplasmic MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2471,OmcS,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2473,OmcS,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2474,OmcS,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2612,ExtD_pcc_lp_cyt,Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2613,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2614,ExtB_porin,PCC porin
+Geobacter_sulfurreducens_PCA,AE017180.2_2690,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2691,ExtB_porin,PCC porin
+Geobacter_sulfurreducens_PCA,AE017180.2_2704,OmcF,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2851,ExtA_pcc_cyt,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_3208,ImcH,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2689,637127415 NP_953769 {omc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2695,637127428 NP_953782 {omc} omcB polyheme membrane-associated cytochrome c [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2696,637127429 NP_953783 {pc} omaB cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2697,637778187 YP_383875 {porin} hypothetical protein [Geobacter metallireducens GS-15: NC_007517],PCC porin
+Geobacter_sulfurreducens_PCA,AE017180.2_2699,637127428 NP_953782 {omc} omcB polyheme membrane-associated cytochrome c [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2700,637127429 NP_953783 {pc} omaB cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2701,637778187 YP_383875 {porin} hypothetical protein [Geobacter metallireducens GS-15: NC_007517],PCC porin
+Geobacter_sulfurreducens_PCA,AE017180.2_1206,MtrA,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_1973,DFE_0448,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2180,MtoA,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2187,DFE_0462,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2615,DFE_0449,Outer Surface MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_2848,DFE_0462,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2875,DFE_0462,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_3173,DFE_0462,Periplasmic MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_3177,DFE_0462,Periplasmic MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_581,DFE_0448,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_603,DFE_0461,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_604,DFE_0461,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_654,DFE_0448,Not found
+Geobacter_sulfurreducens_PCA,AE017180.2_2761,Not found,Periplasmic MHC in PCC
+Geobacter_sulfurreducens_PCA,AE017180.2_687,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_1762,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2768,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2846,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2847,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2850,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2861,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_2862,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_3180,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_3182,Not found,Outer Surface MHC
+Geobacter_sulfurreducens_PCA,AE017180.2_3186,Not found,Outer Surface MHC
+Shewanella_oneidensis_MR-1,AE014299.2_1343,MtrA,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1344,MtrB_TIGR03509,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1652,MtrB_TIGR03509,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1653,MtrA,Periplasmic MHC in PCC
+Shewanella_oneidensis_MR-1,AE014299.2_1654,MtrC_TIGR03507,Outer Surface MHC
+Shewanella_oneidensis_MR-1,AE014299.2_1655,MtrC_TIGR03507,Outer Surface MHC
+Shewanella_oneidensis_MR-1,AE014299.2_1656,MtrC_TIGR03507,Outer Surface MHC
+Shewanella_oneidensis_MR-1,AE014299.2_1657,MtrB_TIGR03509,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1658,MtrA,Periplasmic MHC in PCC
+Shewanella_oneidensis_MR-1,AE014299.2_4057,MtrB_TIGR03509,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_4058,MtrA,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1337,DFE_0448,Not found
+Shewanella_oneidensis_MR-1,AE014299.2_1553,MtrC_TIGR03507,Outer Surface MHC
+Shewanella_oneidensis_MR-1,AE014299.2_4265,DFE_0465,Not found
+Escherichia_coli_FORC_028,Not found,Not found,Not found
+Synechocystis_sp_PCC6803,Not found,Not found,Not found
+Chlorobaculum_tepidum_TLS,Not found,Not found,Not found

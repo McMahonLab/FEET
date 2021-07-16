@@ -1,0 +1,12 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	OuterMembrane	Cytoplasmic	InnerMembrane	Periplasmic	:	0.2572383	0.61970306	2.201931	0.696294	1.2248348	Periplasmic	G1_megahit_metabat_bin-0927___bin-0927:199/304_55
+#2	Periplasmic	OuterMembrane	Periplasmic	OuterMembrane	Periplasmic	:	0.20423408	0.89710911	3.084275	0.273319891	0.5410624	Periplasmic	G1_megahit_metabat_bin-0676___bin-0676:259/670_6
+#3	Periplasmic	Periplasmic	Extracellular	Extracellular	Periplasmic	:	2.147318	0.12959638	2.4665132	0.058232733	0.19833851	Periplasmic	G1_megahit_metabat_bin-0341___bin-0341:0050/1158_3
+#4	Periplasmic	Periplasmic	Cytoplasmic	InnerMembrane	Periplasmic	:	0.07992177	0.262202184	2.704081	0.596785347	1.3570083	Periplasmic	G1_megahit_metabat_bin-0341___bin-0341:0376/1158_3
+#5	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.16472074	0.186078773	4.297283	0.097638464	0.25428105	Periplasmic	G1_megahit_metabat_bin-0341___bin-0341:1096/1158_2
+#6	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.8423851	0.6828316	3.169316	0.05434055	0.2511266	Periplasmic	G1_megahit_metabat_bin-0261___bin-0261:0310/2236_5
+#7	Periplasmic	Periplasmic	Extracellular	Periplasmic	Periplasmic	:	1.270949	0.12779645	2.853702	0.10722602	0.6403253	Periplasmic	G1_megahit_metabat_bin-0261___bin-0261:0407/2236_1
+#8	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.3092348	0.434322572	3.934332	0.041158004	0.2809531	Periplasmic	G1_megahit_metabat_bin-0261___bin-0261:1413/2236_3
+#9	Extracellular	Extracellular	Extracellular	OuterMembrane	Extracellular	:	3.598172	0.65140867	0.6728062	0.042197752	0.035414662	Extracellular	G1_megahit_metabat_bin-0261___bin-0261:1860/2236_3
+#10	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.42856832	0.33108481	3.46202	0.6288185	0.14950944	Periplasmic	G1_megahit_metabat_bin-0261___bin-0261:1994/2236_2
+#11	Extracellular	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.7662576	0.1470338	2.93853	0.062626985	0.0855515	Periplasmic	G1_megahit_metabat_bin-0261___bin-0261:2148/2236_2

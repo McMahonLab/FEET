@@ -1,0 +1,14 @@
+#SeqNO.	Comp.Result	Di-pep.Result	part-Comp.Result	chemo-type.Result	Neighbor	#Combined:	extra	outer	peri	inner	cyto	#Most-likely-Location	#SeqName
+#1	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	0.6848269	0.16039286	3.671765	0.33988444	0.14313004	Periplasmic	E2_megahit_metabat_bin-454___bin-454:412/475_3
+#2	Periplasmic	Periplasmic	Periplasmic	OuterMembrane	Periplasmic	:	0.14949244	0.433673591	3.188456	0.529168903	0.6992106	Periplasmic	E2_megahit_metabat_bin-858___bin-858:134/661_2
+#3	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.4375185	0.06349232	4.188185	0.1121108	0.19869402	Periplasmic	E2_megahit_metabat_bin-613___bin-613:043/676_2
+#4	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.7959867	0.08667744	3.856115	0.09900383	0.1622156	Periplasmic	E2_megahit_metabat_bin-613___bin-613:351/676_2
+#5	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.4838568	0.0878355302	3.3066596	0.035051363	0.086595935	Periplasmic	E2_megahit_metabat_bin-176___bin-176:212/289_8
+#6	Periplasmic	Periplasmic	Periplasmic	Extracellular	Periplasmic	:	1.2294562	0.071067811	3.5469457	0.052680971	0.09984849	Periplasmic	E2_megahit_metabat_bin-470___bin-470:075/627_3
+#7	Periplasmic	Periplasmic	Periplasmic	Cytoplasmic	Periplasmic	:	0.5485344	0.23104985	3.052371	0.21818579	0.9498585	Periplasmic	E2_megahit_metabat_bin-139___bin-139:033/765_1
+#8	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.4797662	0.08499509	4.028282	0.14278854	0.264168	Periplasmic	E2_megahit_metabat_bin-139___bin-139:133/765_2
+#9	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.104572004	0.0730686018	4.44836	0.1068042984	0.26719507	Periplasmic	E2_megahit_metabat_bin-139___bin-139:236/765_5
+#10	Periplasmic	Periplasmic	Periplasmic	Periplasmic	Periplasmic	:	0.205776	0.07543223	3.590271	0.0210174	1.1075034	Periplasmic	E2_megahit_metabat_bin-139___bin-139:387/765_1
+#11	Periplasmic	Periplasmic	Periplasmic	InnerMembrane	Periplasmic	:	0.15099512	0.114082611	3.395031	0.9669227	0.37296917	Periplasmic	E2_megahit_metabat_bin-139___bin-139:463/765_2
+#12	Extracellular	Extracellular	Extracellular	Extracellular	Extracellular	:	4.193432	0.35285443	0.4145007	0.02185231	0.017361858	Extracellular	E2_megahit_metabat_bin-139___bin-139:498/765_1
+#13	Extracellular	Extracellular	Extracellular	Extracellular	Periplasmic	:	2.446865	0.22942542	1.821099	0.22035654	0.28225256	Extracellular	E2_megahit_metabat_bin-139___bin-139:654/765_1

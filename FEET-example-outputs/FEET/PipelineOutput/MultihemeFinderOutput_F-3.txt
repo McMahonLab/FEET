@@ -1,0 +1,4 @@
+
+There are 1642 sequences and 2 of them have at least 5 heme-binding sites.
+The results is printed to /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_F-3/MHCs/F-3_megahit_metabat_bin-09_3_heme_count.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_F-3/MHCs/F-3_megahit_metabat_bin-09_3_heme_list.txt and /home/GLBRCORG/cnolmsted/FeGenie_EET_Stuff/Old_OutputFeGenie/OutputFeGenie_F-3/MHCs/F-3_megahit_metabat_bin-09_3_heme.faa.
+

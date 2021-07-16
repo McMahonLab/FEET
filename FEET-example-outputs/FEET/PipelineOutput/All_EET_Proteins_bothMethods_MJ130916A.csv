@@ -1,0 +1,234 @@
+MAG,orf,FeGenie_HMM,Shaomei_Type
+MJ130916A_megahit_metabat_bin-0943,bin-0943:095/225_44,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0943,bin-0943:095/225_45,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0096,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-1004,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0045,bin-0045:0775/1167_1,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0045,bin-0045:0775/1167_2,DFE_0448,Not found
+MJ130916A_megahit_metabat_bin-0045,bin-0045:1025/1167_1,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0674,bin-0674:285/394_4,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0032,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0660,bin-0660:190/251_2,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0660,bin-0660:027/251_3,EetB,Not found
+MJ130916A_megahit_metabat_bin-0660,bin-0660:027/251_4,EetA,Not found
+MJ130916A_megahit_metabat_bin-0114,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0648,bin-0648:062/332_2,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0648,bin-0648:009/332_10,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0648,bin-0648:323/332_3,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0473,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0079,bin-0079:325/386_16,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0079,bin-0079:192/386_4,Cyc2_repCluster1,Not found
+MJ130916A_megahit_metabat_bin-0954,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:019/109_97,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:065/109_17,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:086/109_6,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:042/109_34,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:057/109_75,Cyc2_repCluster1,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:015/109_6,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0129,bin-0129:052/109_30,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0523,bin-0523:51/54_145,ImcH,Not found
+MJ130916A_megahit_metabat_bin-0523,bin-0523:36/54_111,ExtB_porin,PCC porin
+MJ130916A_megahit_metabat_bin-0523,bin-0523:36/54_112,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0523,bin-0523:24/54_19,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0523,bin-0523:24/54_20,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0523,bin-0523:36/54_113,637127415 NP_953769 {omc} cytochrome c family protein [Geobacter sulfurreducens PCA: NC_002939],Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0523,bin-0523:36/54_110,Not found,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0523,bin-0523:05/54_14,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0523,bin-0523:19/54_40,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0523,bin-0523:37/54_77,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0872,bin-0872:195/325_2,EetA,Not found
+MJ130916A_megahit_metabat_bin-0872,bin-0872:195/325_3,EetB,Not found
+MJ130916A_megahit_metabat_bin-0234,bin-0234:729/836_6,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0234,bin-0234:244/836_18,EetA,Not found
+MJ130916A_megahit_metabat_bin-0234,bin-0234:244/836_19,EetB,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:427/699_5,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:253/699_1,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:179/699_1,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:273/699_1,DFE_0449,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:427/699_6,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0053,bin-0053:643/699_7,DFE_0462,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0053,bin-0053:643/699_6,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-0160,bin-0160:279/652_4,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0235,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0732,bin-0732:049/212_3,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0732,bin-0732:132/212_1,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0664,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0784,bin-0784:0049/1102_3,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0784,bin-0784:1036/1102_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0784,bin-0784:1036/1102_2,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0784,bin-0784:0849/1102_2,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0995,bin-0995:085/297_64,ImcH,Not found
+MJ130916A_megahit_metabat_bin-0995,bin-0995:089/297_9,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0995,bin-0995:114/297_45,ExtA_pcc_cyt,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0995,bin-0995:102/297_3,DFE_0449,Not found
+MJ130916A_megahit_metabat_bin-0995,bin-0995:114/297_46,DFE_0462,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0995,bin-0995:131/297_8,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0995,bin-0995:237/297_3,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0995,bin-0995:289/297_1,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0245,bin-0245:055/165_34,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0245,bin-0245:075/165_10,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0245,bin-0245:061/165_18,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0245,bin-0245:120/165_2,Cyc2_repCluster3,Not found
+MJ130916A_megahit_metabat_bin-0245,bin-0245:016/165_42,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0245,bin-0245:141/165_5,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0247,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:501/903_3,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:720/903_4,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:336/903_2,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:336/903_3,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:074/903_2,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:192/903_1,DFE_0449,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0814,bin-0814:242/903_3,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:372/903_2,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0814,bin-0814:501/903_4,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0814,bin-0814:823/903_5,DFE_0462,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0814,bin-0814:823/903_4,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-0814,bin-0814:192/903_2,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0832/1073_9,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0157/1073_17,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0709/1073_7,OmcF,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0656/1073_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0656/1073_2,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0069/1073_9,DFE_0449,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0229/1073_17,DFE_0448,Not found
+MJ130916A_megahit_metabat_bin-0164,bin-0164:0695/1073_5,MtoA,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:209/276_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:012/276_7,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:012/276_8,MtoA,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_12,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_16,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_19,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_20,CbcL,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_24,MtoA,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_25,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_26,MtoA,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_27,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_28,MtoA,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:026/276_29,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:248/276_11,CbcB,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:039/276_5,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:039/276_6,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-1017,bin-1017:012/276_51,DFE_0449,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-1017,bin-1017:213/276_1,DFE_0462,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-1017,bin-1017:213/276_2,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-1017,bin-1017:012/276_52,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0544,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0787,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_77,OmcF,Not found
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_233,OmcS,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_388,DFE_0462,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_392,DFE_0463,Not found
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_393,DFE_0462,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_394,DFE_0461,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_400,OmcS,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:05/18_2,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0996,bin-0996:01/18_202,OmcS,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0996,bin-0996:14/18_249,MtrA,Not found
+MJ130916A_megahit_metabat_bin-0996,bin-0996:16/18_219,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0113,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:675/847_1,OmcF,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:044/847_1,DFE_0462,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:603/847_1,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:603/847_2,DFE_0462,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:603/847_3,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:612/847_1,DFE_0449,Not found
+MJ130916A_megahit_metabat_bin-0604,bin-0604:158/847_4,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0604,bin-0604:263/847_1,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0089,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:10/57_13,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:10/57_17,ImcH,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:07/57_33,DFE_0461,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0562,bin-0562:07/57_34,DFE_0449,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0562,bin-0562:10/57_18,DFE_0448,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:21/57_14,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:21/57_2,EetB,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:21/57_3,EetA,Not found
+MJ130916A_megahit_metabat_bin-0562,bin-0562:07/57_32,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-0185,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:560/706_7,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:054/706_3,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:520/706_1,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:013/706_1,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:187/706_15,DFE_0462,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:187/706_8,DFE_0449,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:242/706_38,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:404/706_11,MtoA,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:420/706_1,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:420/706_3,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:420/706_4,MtoA,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:420/706_5,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:560/706_6,DFE_0461,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:616/706_1,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:698/706_1,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:698/706_2,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0517,bin-0517:698/706_3,MtoA,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:698/706_4,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0517,bin-0517:187/706_14,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-0846,bin-0846:160/703_5,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0846,bin-0846:135/703_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0846,bin-0846:135/703_2,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0846,bin-0846:324/703_2,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0846,bin-0846:324/703_3,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0263,bin-0263:016/384_4,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0263,bin-0263:116/384_37,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0902,bin-0902:618/866_3,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0495,bin-0495:295/562_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0495,bin-0495:186/562_1,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0495,bin-0495:379/562_3,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0765,bin-0765:0201/1803_1,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0765,bin-0765:1461/1803_2,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0765,bin-0765:0153/1803_2,DFE_0462,Not found
+MJ130916A_megahit_metabat_bin-0765,bin-0765:0913/1803_1,DFE_0462,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0765,bin-0765:0913/1803_2,DFE_0462,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0633,bin-0633:353/630_3,MtrA,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0633,bin-0633:353/630_4,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:353/630_5,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:354/630_12,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:065/630_1,MtrC_TIGR03507,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0633,bin-0633:131/630_2,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:512/630_10,EetA,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:512/630_11,EetB,Not found
+MJ130916A_megahit_metabat_bin-0633,bin-0633:353/630_1,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0384,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0356,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0265,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0060,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0890,bin-0890:0205/1034_2,DFE_0462,Not found
+MJ130916A_megahit_metabat_bin-0890,bin-0890:0205/1034_3,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0890,bin-0890:0525/1034_2,EetA,Not found
+MJ130916A_megahit_metabat_bin-0890,bin-0890:0525/1034_3,EetB,Not found
+MJ130916A_megahit_metabat_bin-0890,bin-0890:0759/1034_2,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0323,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0386,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0183,bin-0183:201/278_1,MtoA,Not found
+MJ130916A_megahit_metabat_bin-0183,bin-0183:201/278_2,MtrB_TIGR03509,Not found
+MJ130916A_megahit_metabat_bin-0469,bin-0469:061/212_24,EetB,Not found
+MJ130916A_megahit_metabat_bin-0469,bin-0469:061/212_25,EetA,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:086/179_17,ImcH,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:086/179_27,CbcL,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:007/179_36,CbcA,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:007/179_37,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:101/179_28,ExtB_porin,PCC porin
+MJ130916A_megahit_metabat_bin-0716,bin-0716:081/179_9,ExtB_porin,PCC porin
+MJ130916A_megahit_metabat_bin-0716,bin-0716:081/179_10,ExtC_pcc_lp_cyt,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:081/179_11,640549328 YP_001230600 {omc} cytochrome C family protein [Geobacter uraniumreducens Rf4: NC_009483],Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:101/179_29,640549328 YP_001230600 {omc} cytochrome C family protein [Geobacter uraniumreducens Rf4: NC_009483],Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:007/179_38,,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:086/179_29,DFE_0448,Not found
+MJ130916A_megahit_metabat_bin-0716,bin-0716:010/179_32,Not found,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:010/179_33,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:048/179_49,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0716,bin-0716:161/179_2,Not found,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0443,bin-0443:110/187_34,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0443,bin-0443:110/187_35,Cyc1,Not found
+MJ130916A_megahit_metabat_bin-0443,bin-0443:079/187_36,CbcB,Not found
+MJ130916A_megahit_metabat_bin-0443,bin-0443:173/187_30,Cyc2_repCluster2,Not found
+MJ130916A_megahit_metabat_bin-0443,bin-0443:073/187_5,DFE_0462,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0443,bin-0443:074/187_1,DFE_0448,Outer Surface MHC in PCC
+MJ130916A_megahit_metabat_bin-0443,bin-0443:079/187_37,DFE_0462,Not found
+MJ130916A_megahit_metabat_bin-0443,bin-0443:082/187_19,DFE_0449,Periplasmic MHC in PCC
+MJ130916A_megahit_metabat_bin-0443,bin-0443:082/187_20,DFE_0462,Outer Surface MHC
+MJ130916A_megahit_metabat_bin-0443,bin-0443:074/187_2,Not found,PCC porin
+MJ130916A_megahit_metabat_bin-0695,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0506,Not found,Not found,Not found
+MJ130916A_megahit_metabat_bin-0630,Not found,Not found,Not found
