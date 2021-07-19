@@ -38,9 +38,9 @@ if not os.path.exists('%s/MHCs/' % (parentfolder)):
     os.makedirs('%s/MHCs/' % (parentfolder))
 outfolder = '%s/MHCs/' % (parentfolder)
 
-outfile1 = outfolder + os.path.basename(infile.split('.')[0] + '_' + str(n) + '_heme_count.txt')
-outfile2 = outfolder + os.path.basename(infile.split('.')[0] + '_' + str(n) + '_heme_list.txt')
-outfile3 = outfolder + os.path.basename(infile.split('.')[0] + '_' + str(n) + '_heme.faa')
+outfile1 = outfolder + os.path.basename(infile.split('.f')[0] + '_' + str(n) + '_heme_count.txt')
+outfile2 = outfolder + os.path.basename(infile.split('.f')[0] + '_' + str(n) + '_heme_list.txt')
+outfile3 = outfolder + os.path.basename(infile.split('.f')[0] + '_' + str(n) + '_heme.faa')
 
 with open(outfile1, 'w') as f:
 	with open(outfile2, 'w') as f2:
