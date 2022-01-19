@@ -115,7 +115,7 @@ done
 
 cd /ServerPath/FEET
 
-grep ':' Cello/Results_Sample_Name.tsv | grep -v "Combined:" | awk '{if ($13 ~ /Periplasmic/ || /Extracellular/ || /Outer/) printf $14","$13"\n"}' | sed 's/___/,/g' | sed 's/-_-/,/g' >> PipelineOutput/OM-E-P-only_MHCs_Sample_Name.csv
+grep ':' Cello/Results_Sample_Name.tsv | grep -v "Combined:" | awk '{if ($13 ~ /Periplasmic/ || /Extracellular/ || /Outer/) printf $14","$13"\n"}' | sed 's/___/,/g' | sed 's/-_-/,/g' | grep -v "Cytoplasmic" >> PipelineOutput/OM-E-P-only_MHCs_Sample_Name.csv
 
 ### Splitting up into individual sample files, and if only one sample, these next 5 lines simply get rid of the redundant sample name column from the file
 mv PipelineOutput/OM-E-P-only_MHCs_Sample_Name.csv PipelineOutput/OM-E-P-only_MHCs_Sample_NameTEMP.csv
